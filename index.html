@@ -61,40 +61,60 @@ aurelien.campergue@gmail.com
 <a name="gestion-du-parc-des-postes-de-d%C3%A9veloppement" class="anchor" href="#gestion-du-parc-des-postes-de-d%C3%A9veloppement"><span class="octicon octicon-link"></span></a>Gestion du parc des postes de développement</h3>
 
 <ul>
-<li>Création de masters de postes de développement ; Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0)</li>
-<li>Mise en place d'une infrastructure de clonage de masse (Clonezilla) ; Déploiement des postes</li>
-<li>Inventaire de parc informatique automatisé (OCS Inventory NG, GLPi)</li>
+<li>Création de masters de postes de développement ; <em>Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0)</em>
+</li>
+<li>Mise en place d'une infrastructure de clonage de masse <em>(Clonezilla)</em> et Déploiement des postes à la demande</li>
+<li>Inventaire de parc informatique automatisé <em>(OCS Inventory NG, GLPi)</em>
+</li>
 </ul><h3>
 <a name="mise-en-place-et-maintien-en-condition-op%C3%A9rationnelle-dune-plateforme-de-d%C3%A9veloppement-logiciel-" class="anchor" href="#mise-en-place-et-maintien-en-condition-op%C3%A9rationnelle-dune-plateforme-de-d%C3%A9veloppement-logiciel-"><span class="octicon octicon-link"></span></a>Mise en place et maintien en condition opérationnelle d'une plateforme de développement logiciel :</h3>
 
-<p>TODO:services installés sous forme d'appliances sous debian 7.0</p>
+<p><em>Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans</em></p>
 
 <ul>
-<li>Gestion documentaire collaborative (Xwiki) </li>
-<li>Issue and Bugs Tracker (JIRA) </li>
-<li>Gestion de configuration (SVN, Git) </li>
-<li>Build automatisé, intégration continue (Maven, Hudson/Jenkins) </li>
-<li>Qualimétrie : Sonar, Squale (PMD, Findbugs, Checkstyle, Metrics, ...) </li>
-<li>Gestion de dépôts des binaires (Nexus) </li>
-<li>Authentification centralisée (OpenLDAP)</li>
-</ul><p>TODO:utilisée par +de 60dévelopeurs pendant 3 ans</p>
-
-<h3>
+<li>Gestion documentaire collaborative <em>(Xwiki)</em>
+</li>
+<li>Issue and Bugs Tracker <em>(JIRA)</em>
+</li>
+<li>Gestion de configuration <em>(SVN, Git)</em>
+</li>
+<li>Build automatisé, intégration continue <em>(Maven, Hudson/Jenkins)</em>
+</li>
+<li>Qualimétrie : Sonar, Squale <em>(PMD, Findbugs, Checkstyle, Metrics, ...)</em>
+</li>
+<li>Gestion de dépôts binaire <em>(Nexus)</em>
+</li>
+<li>Authentification centralisée <em>(OpenLDAP)</em>
+</li>
+</ul><h3>
 <a name="plateforme-dint%C3%A9gration-et-de-tests-" class="anchor" href="#plateforme-dint%C3%A9gration-et-de-tests-"><span class="octicon octicon-link"></span></a>Plateforme d'intégration et de tests :</h3>
 
 <ul>
-<li>Gestion parallèle de fermes de machines virtuelles (près de 500 ) sur serveurs VMWare ESXi pendant plus de 2 ans</li>
-<li>Migration de la fermes de machines virtuelles vers des serveurs KVM</li>
-<li>Gestion parallèle de fermes de machines virtuelles (près de 500 ) sur serveurs KVM pendant plus de 1 an</li>
-<li>Déploiement hebdomadaires de plateformes complètes (40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 4 lemonldap-ng)</li>
+<li>Installation et configuration de plus de 30 hyperviseurs <em>(VMWare ESXi pendant plus de 2 ans, KVM depuis 1 an)</em>
+</li>
+<li>Gestion de nombreuses plateformes virtualisée <em>(environ 10 plateformes, 40 serveurs par plateformes)</em>
+</li>
+<li>Déploiement hebdomadaires de plateformes complètes, OS et applicatif <em>(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 4 lemonldap-ng)</em>
+</li>
+</ul><h3>
+<a name="packaging-int%C3%A9gration-et-industrialisation-des-d%C3%A9ploiements" class="anchor" href="#packaging-int%C3%A9gration-et-industrialisation-des-d%C3%A9ploiements"><span class="octicon octicon-link"></span></a>Packaging, intégration et industrialisation des déploiements</h3>
+
+<ul>
+<li>Mise en place de projets Maven de packaging applicatif au format Debian <em>(Jdeb)</em>
+</li>
+<li>Industrialisation des déploiements applicatifs basés sur les paquets Debian</li>
+<li>Industrialisation des configurations de plateforme</li>
+<li>Mise en place d'une architecture de gestion de logs <em>(Logstash)</em>
+</li>
+<li>Mise en place d'une architecture de supervision des performances <em>(Munin)</em>
+</li>
 </ul><h3>
 <a name="gestion-des-versions-applicatives" class="anchor" href="#gestion-des-versions-applicatives"><span class="octicon octicon-link"></span></a>Gestion des versions applicatives</h3>
 
 <ul>
 <li>Référent intégration logicielle et système</li>
-<li>Responsable de l'architecture Maven des modules du projets</li>
-<li>Responsable de la qualité des versions du système </li>
-<li>Packaging natif Debian des modules applicatifs automatisé</li>
+<li>Responsable de l'architecture Maven de l'ensemble des modules du projet</li>
+<li>Responsable de la qualité des versions du système (releases mensuelles)</li>
 <li>Support aux équipes de développement </li>
 </ul><h2>
 <a name="2010-thales-services--d%C3%A9monstrateur-ratp-3-mois" class="anchor" href="#2010-thales-services--d%C3%A9monstrateur-ratp-3-mois"><span class="octicon octicon-link"></span></a>2010 Thales Services – Démonstrateur RATP (3 mois)</h2>
@@ -104,80 +124,66 @@ aurelien.campergue@gmail.com
 
 <p><em>1 mission de développement, 2 missions d'administration système</em></p>
 
-<p>Développement démonstrateur RATP (3 mois)</p>
-
-<p>Déploiement et administration du serveur de développement (utilisé par une quinzaine de développeurs)</p>
-
-<p>Création de Masters de postes de développement</p>
-
-<p><em>Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma</em>*</p>
-
-<h3>
+<ul>
+<li>Développement démonstrateur RATP (3 mois)</li>
+<li>Déploiement et administration du serveur de développement (utilisé par une quinzaine de développeurs)</li>
+<li>Création de Masters de postes de développement
+<em>Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma</em>
+</li>
+</ul><h3>
 <a name="2010-2009---thales-services--projet-gesplan--auditeur-qualit%C3%A9-2-semaines" class="anchor" href="#2010-2009---thales-services--projet-gesplan--auditeur-qualit%C3%A9-2-semaines"><span class="octicon octicon-link"></span></a>2010-2009   Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)</h3>
 
-<hr><p>Audit de qualité de l'application JEE Gesplan (5 jours)</p>
-
-<p><em>Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma</em></p>
+<hr><ul>
+<li>Audit de qualité de l'application JEE Gesplan (5 jours)</li>
+</ul><p><em>Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma</em></p>
 
 <h2>
 <a name="2010-2009----thales-services--projet-danemark---r%C3%A9f%C3%A9rent-technique" class="anchor" href="#2010-2009----thales-services--projet-danemark---r%C3%A9f%C3%A9rent-technique"><span class="octicon octicon-link"></span></a>2010-2009    Thales Services – Projet Danemark - Référent Technique</h2>
 
 <hr><p><em>1 mission de développement, 2 missions d'administration système</em></p>
 
-<p>Développement d'une application de gestion des transports en commun (6 mois)</p>
-
-<p>Création d'un Master de poste de développement</p>
-
-<p>Installation d'un serveur développement Linux Debian (5.0)</p>
-
-<p><em>Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 &amp; GWT 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative Planning</em></p>
+<ul>
+<li>Développement d'une application de gestion des transports en commun (6 mois)</li>
+<li>Création d'un Master de poste de développement</li>
+<li>Installation d'un serveur développement Linux Debian (5.0)</li>
+</ul><p><em>Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 &amp; GWT 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative Planning</em></p>
 
 <h2>
 <a name="2008-2009----thales-air-systems-weapon-systems--concepteur-et-d%C3%A9veloppeur-java" class="anchor" href="#2008-2009----thales-air-systems-weapon-systems--concepteur-et-d%C3%A9veloppeur-java"><span class="octicon octicon-link"></span></a>2008-2009    Thales Air Systems, Weapon Systems – Concepteur et développeur Java</h2>
 
 <hr><p><em>5 missions de développement, 2 missions d'administration système</em></p>
 
-<p>Conception et développement d'un framework de simulation (3 mois)</p>
-
-<p>Conception et développement d'un framework de persistance (3 mois)</p>
-
-<p>Participation à l'élaboration d'une API de fenêtrage OpenGL (2 mois)</p>
-
-<p>Évolutions de l'outil Comete, outil de génération de code multi-langage (2 mois)</p>
-
-<p>Développement d'un outil de transformation de modèles M2M d'interfaces de communication (2 mois)</p>
-
-<p>Déploiement et administration du serveur de développement (utilisé par environ 30 personnes réparties sur 3 services)</p>
-
-<p>Automatisation des déploiements des postes de développement</p>
-
-<p><em>Java J2SE  version 1.6, Maven 2, Eclipse 3.5, Subversion, Redmine, Design Patterns GOF &amp; GRASP</em></p>
+<ul>
+<li>Conception et développement d'un framework de simulation (3 mois)</li>
+<li>Conception et développement d'un framework de persistance (3 mois)</li>
+<li>Participation à l'élaboration d'une API de fenêtrage OpenGL (2 mois)</li>
+<li>Évolutions de l'outil Comete, outil de génération de code multi-langage (2 mois)</li>
+<li>Développement d'un outil de transformation de modèles M2M d'interfaces de communication (2 mois)</li>
+<li>Déploiement et administration du serveur de développement (utilisé par environ 30 personnes réparties sur 3 services)</li>
+<li>Automatisation des déploiements des postes de développement</li>
+</ul><p><em>Java J2SE  version 1.6, Maven 2, Eclipse 3.5, Subversion, Redmine, Design Patterns GOF &amp; GRASP</em></p>
 
 <h2>
 <a name="2006-2008----thales-epm--ing%C3%A9nieur-%C3%A9tudes-et-d%C3%A9veloppement-java" class="anchor" href="#2006-2008----thales-epm--ing%C3%A9nieur-%C3%A9tudes-et-d%C3%A9veloppement-java"><span class="octicon octicon-link"></span></a>2006-2008    Thales EPM – Ingénieur études et développement Java</h2>
 
 <hr><p><em>3 missions de développement</em></p>
 
-<p>Analyse et conception d'un moteur d'export de données (18 mois)</p>
-
-<p>Conception d'un module de réduction de composants électroniques (2 mois)</p>
-
-<p>Conception d'un moteur de calcul aux différences finies appliqué à la thermique (4 mois)</p>
-
-<p><em>Java J2SE  version 1.4 &amp; 1.6, Eclipse 3.4/3.3/3.2</em></p>
+<ul>
+<li>Analyse et conception d'un moteur d'export de données (18 mois)</li>
+<li>Conception d'un module de réduction de composants électroniques (2 mois)</li>
+<li>Conception d'un moteur de calcul aux différences finies appliqué à la thermique (4 mois)</li>
+</ul><p><em>Java J2SE  version 1.4 &amp; 1.6, Eclipse 3.4/3.3/3.2</em></p>
 
 <h2>
 <a name="2005-2006----cms-informatic---consultant" class="anchor" href="#2005-2006----cms-informatic---consultant"><span class="octicon octicon-link"></span></a>2005-2006    CMS Informatic - Consultant</h2>
 
 <hr><p><em>Formation, développement et administration</em></p>
 
-<p>Préparation et animation de formations techniques (anglais et français)</p>
-
-<p>Administration système et réseau.</p>
-
-<p>Développement VBA</p>
-
-<h1>
+<ul>
+<li>Préparation et animation de formations techniques (anglais et français)</li>
+<li>Administration système et réseau.</li>
+<li>Développement VBA</li>
+</ul><h1>
 <a name="synth%C3%A8se-des--comp%C3%A9tences" class="anchor" href="#synth%C3%A8se-des--comp%C3%A9tences"><span class="octicon octicon-link"></span></a>Synthèse des  compétences</h1>
 
 <table>
@@ -250,8 +256,9 @@ aurelien.campergue@gmail.com
 </table><h1>
 <a name="divers" class="anchor" href="#divers"><span class="octicon octicon-link"></span></a>Divers</h1>
 
-<p>Habilitable Confidentiel Défense
-Loisirs : Danses Swing, boxe française, skateboard</p>
+<p>Habilitable Confidentiel Défense</p>
+
+<p>Loisirs : Danses Swing, boxe française, skateboard</p>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
