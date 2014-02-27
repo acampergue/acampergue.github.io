@@ -65,7 +65,7 @@ _1 mission de développement, 2 missions d'administration système_
   * Création de Masters de postes de développement
 _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-### 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
+## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
 *****
 
   * Audit de qualité de l'application JEE Gesplan
