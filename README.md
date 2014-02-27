@@ -68,7 +68,7 @@ _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, 
 ### 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
 *****
 
-  * Audit de qualité de l'application JEE Gesplan (5 jours)
+  * Audit de qualité de l'application JEE Gesplan
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
