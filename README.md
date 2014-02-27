@@ -11,7 +11,7 @@
 # Expérience professionnelle
 *****
 
-## 2014 - 2010	Thales Services – Projet Dune (42 mois)
+## 2014 - 2010	Thales Services – Projet Dune
 *****
 
 ### Référent intégration logicielle et système
@@ -53,7 +53,7 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
   * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ et Déploiement des postes à la demande
   * Inventaire de parc informatique automatisé _(OCS Inventory NG, GLPi)_
 
-## 2010	Thales Services – Démonstrateur RATP (3 mois)
+## 2010	Thales Services – Démonstrateur RATP
 *****
 
 ### Référent Technique, Responsable de l'intégration continue, Administrateur Système
@@ -65,7 +65,7 @@ _1 mission de développement, 2 missions d'administration système_
   * Création de Masters de postes de développement
 _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
+## 2010	Thales Services – Projet Gesplan – Auditeur Qualité
 *****
 
   * Audit de qualité de l'application JEE Gesplan
