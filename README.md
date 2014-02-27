@@ -14,12 +14,27 @@
 ## 2014 - 2010	Thales Services – Projet Dune (42 mois)
 *****
 
-### Gestion du parc des postes de développement
+### Référent intégration logicielle et système
 
-  * Création de masters de postes de développement ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0)_
-  * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ et Déploiement des postes à la demande
-  * Inventaire de parc informatique automatisé _(OCS Inventory NG, GLPi)_
+  * Responsable de l'architecture Maven de l'ensemble des modules du projet
+  * Responsable de la qualité des versions du système (releases mensuelles)
+  * Support aux équipes de développement 
 
+### Packaging, intégration et industrialisation des déploiements
+
+  * Mise en place de projets Maven de packaging applicatif au format Debian _(Jdeb)_
+  * Industrialisation des déploiements applicatifs basés sur les paquets Debian
+  * Industrialisation des configurations de plateforme
+  * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme
+  * Mise en place d'une architecture de gestion de logs _(Logstash)_
+  * Mise en place d'une architecture de supervision des performances _(Munin)_
+
+### Plateforme d'intégration et de tests :
+
+  * Installation et configuration de plus de 30 hyperviseurs _(VMWare ESXi pendant plus de 2 ans, KVM depuis 1 an)_
+  * Gestion de nombreuses plateformes virtualisée _(environ 10 plateformes, 40 serveurs par plateformes)_
+  * Déploiement hebdomadaires de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 4 lemonldap-ng)_
+  
 ### Mise en place et maintien en condition opérationnelle d'une plateforme de développement logiciel :
 
 _Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
@@ -32,26 +47,11 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
   * Gestion de dépôts binaire _(Nexus)_
   * Authentification centralisée _(OpenLDAP)_
 
-### Plateforme d'intégration et de tests :
+### Gestion du parc des postes de développement
 
-  * Installation et configuration de plus de 30 hyperviseurs _(VMWare ESXi pendant plus de 2 ans, KVM depuis 1 an)_
-  * Gestion de nombreuses plateformes virtualisée _(environ 10 plateformes, 40 serveurs par plateformes)_
-  * Déploiement hebdomadaires de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 4 lemonldap-ng)_
-  
-### Packaging, intégration et industrialisation des déploiements
-
-  * Mise en place de projets Maven de packaging applicatif au format Debian _(Jdeb)_
-  * Industrialisation des déploiements applicatifs basés sur les paquets Debian
-  * Industrialisation des configurations de plateforme
-  * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme
-  * Mise en place d'une architecture de gestion de logs _(Logstash)_
-  * Mise en place d'une architecture de supervision des performances _(Munin)_
-  
-### Référent intégration logicielle et système
-
-  * Responsable de l'architecture Maven de l'ensemble des modules du projet
-  * Responsable de la qualité des versions du système (releases mensuelles)
-  * Support aux équipes de développement 
+  * Création de masters de postes de développement ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0)_
+  * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ et Déploiement des postes à la demande
+  * Inventaire de parc informatique automatisé _(OCS Inventory NG, GLPi)_
 
 ## 2010	Thales Services – Démonstrateur RATP (3 mois)
 *****
