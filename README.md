@@ -46,6 +46,7 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
   * Qualimétrie : Sonar, Squale _(PMD, Findbugs, Checkstyle, Metrics, ...)_
   * Gestion de dépôts binaire _(Nexus)_
   * Authentification centralisée _(OpenLDAP)_
+  * Sécurité et Réseau _(PFSense)_
 
 ### Gestion du parc des postes de développement
 
