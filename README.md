@@ -86,16 +86,16 @@ _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, 
 ## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
 *****
 
-  * Audit de qualité de l'application JEE Gesplan (5 jours)
+  * Audit de qualité de l'application JEE Gesplan
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-## 2010-2009	Thales Services – Projet Danemark - Référent Technique
+## 2010-2009	Thales Services – Projet Danemark - Référent Technique (6 mois)
 *****
 
 *1 mission de développement, 2 missions d'administration système*
 
-  * Développement d'une application de gestion des transports en commun (6 mois)
+  * Développement d'une application de gestion des transports en commun
   * Création d'un Master de poste de développement
   * Installation d'un serveur développement Linux Debian (5.0)
 
