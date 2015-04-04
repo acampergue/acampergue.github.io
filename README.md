@@ -1,4 +1,4 @@
-    Aurélien Campergue, 31 ans
+    Aurélien Campergue, 32 ans
     1551 rue Louis Blériot
     78530 Buc
     06.73.61.97.69
@@ -6,38 +6,47 @@
 
 
 # <center>**Ingénieur DevOps**</center>
-## <center>Spécialité Linux, Java, Maven et outils Open Source</center>
+## <center>Spécialités : Docker, Ansible, Python, KVM, Linux, Java, Maven </center>
+
+# Synthèse des  compétences
+*****
+
+|                 |          |
+|:-----------|:------------|
+| Virtualisation & Conteneurisation |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
+| Langages   | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|    
+| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, **PFSense**, Windows |
+| Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
+| Outils |  **Ansible**, Puppet, **Maven**, Hudson, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
+| Anglais |  Très bon niveau (TOEIC 865) |
+| Allemand |  Lu, écrit, parlé |
 
 # Expérience professionnelle
 *****
 
-## 2014 - 2010	Thales Services – Projet Dune
+## 2015 - 2010	Thales Services – Projet Dune (42 mois)
 *****
 
-### Référent intégration logicielle et système
+### Gestion du parc des postes de développement
 
-  * Responsable de l'architecture Maven de l'ensemble des modules du projet
-  * Responsable de la qualité des versions du système (releases mensuelles)
-  * Support aux équipes de développement 
-
+  * Création de masters de postes de développement (pré-outillés et préconfigurés) ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0, 8.0)_
+  * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ pour déploiement des postes à la demande
+  * Inventaire de parc automatisé _(OCS Inventory NG et GLPi)_
+  
 ### Packaging, intégration et industrialisation des déploiements
 
-  * Mise en place de projets Maven de packaging applicatif au format Debian _(Jdeb)_
-  * Industrialisation des déploiements applicatifs basés sur les paquets Debian
-  * Industrialisation des configurations de plateforme
-  * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme
-  * Mise en place d'une architecture de gestion de logs _(Logstash)_
+  * Automatisation des déploiements des hyperviseurs _(Preseed, Puppet)_
+  * Automatisation des déploiements des machines virtuelles _(Scripts Shells puis développement spécifique Python puis Ansible)_
+  * Projets Maven dédiés au packaging natif des composants applicatif au format Debian _(Jdeb)_
+  * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme _(Ansible)_
+  * Mise en place d'une architecture de gestion de logs _(ELK : Elasticsearch, Logstash, Kibana)_
   * Mise en place d'une architecture de supervision des performances _(Munin)_
-
-### Plateforme d'intégration et de tests :
-
-  * Installation et configuration de plus de 30 hyperviseurs _(VMWare ESXi pendant plus de 2 ans, KVM depuis 1 an)_
-  * Gestion de nombreuses plateformes virtualisée _(environ 10 plateformes, 40 serveurs par plateformes)_
-  * Déploiement hebdomadaires de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 4 lemonldap-ng)_
   
+
 ### Mise en place et maintien en condition opérationnelle d'une plateforme de développement logiciel :
 
-_Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
+_Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
 
   * Gestion documentaire collaborative _(Xwiki)_
   * Issue and Bugs Tracker _(JIRA)_
@@ -47,30 +56,37 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 3 ans_
   * Gestion de dépôts binaire _(Nexus)_
   * Authentification centralisée _(OpenLDAP)_
   * Sécurité et Réseau _(PFSense)_
+  * Gestion de parc _(Foreman)_
 
-### Gestion du parc des postes de développement
+### Plateforme d'intégration et de tests :
 
-  * Création de masters de postes de développement ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0)_
-  * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ et Déploiement des postes à la demande
-  * Inventaire de parc informatique automatisé _(OCS Inventory NG, GLPi)_
+  * Installation et configuration de 40 hyperviseurs _(VMWare ESXi/VSphere pendant plus de 2 ans, KVM depuis 2 an, migration partielle vers Docker en cours)_
+  * Gestion des plateformes de test et intégration _(environ 800VMs : 20 plateformes, 40 serveurs par plateformes)_
+  * Déploiement hebdomadaires de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng)_
+  * Mise en place d'une infrastructure de tests d'acceptance _(Selenium Hub + nodes ubuntu & windows)_
+  
+### Référent intégration logicielle et système
 
-## 2010	Thales Services – Démonstrateur RATP
+  * Mise en place de l'architecture Maven _(Maven3, Corporate POM, BOM, Projets de livraison automatisé, archetypes)_
+  * Responsable de la qualité des versions du système (releases mensuelles)
+  * Support aux équipes de développement 
+
+## 2010	Thales Services – Démonstrateur RATP (3 mois)
 *****
 
 ### Référent Technique, Responsable de l'intégration continue, Administrateur Système
 
 _1 mission de développement, 2 missions d'administration système_
 
-  * Développement démonstrateur RATP
+  * Développement démonstrateur RATP (3 mois)
   * Déploiement et administration du serveur de développement (utilisé par une quinzaine de développeurs)
   * Création de Masters de postes de développement
-
 _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-## 2010	Thales Services – Projet Gesplan – Auditeur Qualité
+## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
 *****
 
-  * Audit de qualité de l'application JEE Gesplan
+  * Audit de qualité de l'application JEE Gesplan (5 jours)
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
@@ -120,21 +136,9 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
   * Administration système et réseau.
   * Développement VBA
 
-# Synthèse des  compétences
-
-|                 |          |
-|:-----------|:------------|
-| Langages   | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|    
-| Virtualisation |  VMWare ESXi, Vcenter, **QEMU/KVM** |
-| Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, IDEF0, Merise, Merise 2 |
-| Outils |  **Maven 3**, Hudson, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, Redmine, JAXB, JDOM, Drupal, Joomla,  Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
-| API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, SLF4J, **Logback**, JPA, JDO, Hibernate |
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, PFSense, Windows |
-| Anglais |  Très bon niveau (TOEIC 865) |
-| Allemand |  Lu, écrit, parlé |
-
 
 # Formation
+*****
 
 |                 |          |
 |:-----------|:------------|
@@ -143,6 +147,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 | 2001-2002 |  Baccalauréat STI spécialité électronique (mention Très Bien), Carrières sur Seine |
 
 # Divers
+*****
 
   * Expert Technique reconnu
   * Habilitable Confidentiel Défense
