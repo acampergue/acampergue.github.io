@@ -303,6 +303,6 @@ _Training, development and administration_
 # Various
 *****
 
-  * recognized technical expert
+  * Recognized technical expert
   * Can work on projects classified as a military secret
   * Hobbies: Swing Dancing, French boxing, Krav-Maga, skateboarding
