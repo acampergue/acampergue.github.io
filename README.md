@@ -5,6 +5,10 @@
     aurelien.campergue@gmail.com
 
 
+*****
+# FRENCH VERSION
+*****
+
 # <center>**Ingénieur DevOps**</center>
 ## <center>Spécialités : Docker, Ansible, Python, KVM, Linux, Java, Maven </center>
 
@@ -156,6 +160,8 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
   * Loisirs : Danses Swing, boxe française, Krav-Maga, skateboard
 
 
+*****
+# ENGLISH VERSION
 *****
 
 # <center>**DevOps Engineer**</center>
