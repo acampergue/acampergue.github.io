@@ -17,7 +17,7 @@
 | Langages   | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|    
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, **PFSense**, Windows |
 | Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
-| Outils |  **Ansible**, Puppet, **Maven**, Hudson, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Outils |  **Ansible**, Puppet, **Maven**, Hudson, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, **Apache httpd**, **haproxy**, Apache tomcat, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 | API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | Anglais |  Très bon niveau (TOEIC 865) |
 | Allemand |  Lu, écrit, parlé |
@@ -40,7 +40,7 @@
   * Automatisation des déploiements des machines virtuelles _(Scripts Shells puis développement spécifique Python puis Ansible)_
   * Projets Maven dédiés au packaging natif des composants applicatif au format Debian _(Jdeb)_
   * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme _(Ansible)_
-  * Mise en place d'une architecture de gestion de logs _(ELK : Elasticsearch, Logstash, Kibana)_
+  * Mise en place d'une architecture de gestion de logs _(Elasticsearch, Logstash, Kibana, Redis)_
   * Mise en place d'une architecture de supervision des performances _(Munin)_
   
 
@@ -58,12 +58,13 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
   * Authentification centralisée _(OpenLDAP)_
   * Sécurité et Réseau _(PFSense)_
   * Gestion de parc _(Foreman)_
+  * Portail d'accès hautement disponible et unifié aux services web précédent (haproxy, apache httpd)
 
 ### Plateforme d'intégration et de tests :
 
   * Installation et configuration de 40 hyperviseurs _(VMWare ESXi/VSphere pendant plus de 2 ans, KVM depuis 2 an, migration partielle vers Docker en cours)_
   * Gestion des plateformes de test et intégration _(environ 800VMs : 20 plateformes, 40 serveurs par plateformes)_
-  * Déploiement journalier de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng)_
+  * Déploiement journalier de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
   * Mise en place d'une infrastructure de tests d'acceptance _(Selenium Hub + nodes ubuntu & windows)_
   
 ### Référent intégration logicielle et système
@@ -169,7 +170,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 | Languages | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, **PFSense**, Windows |
 | Methodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
-| Tools |  **Ansible**, Puppet, **Maven**, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Tools |  **Ansible**, Puppet, **Maven**, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, **Apache httpd**, **haproxy**, Apache tomcat, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 |  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | English |  Fluent English (TOEIC 865) |
 | German |  Read, written, spoken |
@@ -210,12 +211,13 @@ _Platform used by a plateau of 60 people for more than 4 years_
   * Centralized authentication _(OpenLDAP)_
   * Security and Network _(PFSense)_
   * Park Management _(Foreman)_
+  * Highly available unified access portal for previous web services (haproxy, apache httpd)
 
 ### Integration and testing platform:
 
   * Installing and Configuring 40 hypervisors _(VMWare ESXi / vSphere for more than 2 years, KVM for 2 years, partial migration to Docker)_
   * Managing integration and testing platforms _(about 800VMs 20 platforms, 40 servers per platform)_
-  * Daily deployment of complete platforms, OS and application _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng)_
+  * Daily deployment of complete platforms, OS and application _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
   * Establishment of an infrastructure of acceptance tests _(Selenium Hub ubuntu & windows nodes)_
 
 ### Referent software integration and system
