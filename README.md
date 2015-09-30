@@ -188,7 +188,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 ## 2015 - 2010 Thales Services - Project Dune (42 months)
 *****
 
-### Software development it park management
+### Software development park management
 
   * Creation of masters for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
   * Implementation of a mass cloning infrastructure _(Clonezilla)_ to deploy developer computers on the fly
@@ -226,7 +226,7 @@ _Platform used by a plateau of 60 people for more than 4 years_
   * Daily deployment of complete platforms, OS and application _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
   * Establishment of an infrastructure of acceptance tests _(Selenium Hub ubuntu & windows nodes)_
 
-### Referent software integration and system
+### Referent on software integration and system integration
 
   * Implementation of the Maven architecture (Maven3, Corporate POM, BOM, automated delivery projects, archetypes)
   * Responsible for the quality of system versions (weekly releases)
@@ -256,7 +256,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Ch
 ## 2010-2009 Thales Services - Denmark Project - Technical Adviser (6 months)
 *****
 
-_1 development mission, 2 system administration missions _
+_1 development mission, 2 system administration missions_
 
   * Development of a public transportation management application
   * Creating a development station master
