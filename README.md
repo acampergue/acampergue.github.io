@@ -1,3 +1,5 @@
+TODO 1 : Use provisioning word 
+    
     Aurélien Campergue, 32 ans
     1551 rue Louis Blériot
     78530 Buc
@@ -35,6 +37,7 @@
 
 ### Software development park management
 
+TODO 1 : Use provisioning word 
   * Creation of masters for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
   * Implementation of a mass cloning infrastructure _(Clonezilla)_ to deploy developer computers on the fly
   * Automated park Inventory _(OCS Inventory NG and GLPI)_
