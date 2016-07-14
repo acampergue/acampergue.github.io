@@ -25,8 +25,9 @@ TODO 2 : Rajouter exemple Gradle
 | Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
-| Deployment tools |  **Ansible**, Puppet |
+| Deployment tools |  **Ansible**, Puppet, **Preseed**, Kickstart |
 | Development tools | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**
+| Testing tools | Selenium, Gatling |
 | Other tools |  **Apache httpd**, **haproxy**, **Apache tomcat**, **JBoss**, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 |  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | English |  Fluent English (TOEIC 865) |
@@ -41,21 +42,20 @@ TODO 2 : Rajouter exemple Gradle
 
 ### Software development park management
 
-TODO 1 : Use provisioning word
   * Creation of masters for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
-  * Implementation of a mass cloning infrastructure _(Clonezilla)_ to deploy developer computers on the fly
+  * Implementation of a mass cloning infrastructure based on  _(Clonezilla)_ to provision pre-configured developer computers on the fly
   * Automated park Inventory _(OCS Inventory NG and GLPI)_
 
 ### Packaging, integration and industrialization of deployments
 
-  * Automating hypervisors deployments _(Preseed, Puppet, Ansible)
+  * Automating deployment of hypervisors _(Preseed, Puppet, Ansible)_
   * Automating deployment of virtual machines _(Shell Scripts, then Python specific development)_
-  * Maven projects dedicated to native packaging of components in the Debian format _(Jdeb)_
+  * Building Maven projects dedicated to native packaging of components in the Debian format _(Jdeb)_
   * Setting up a continuous deployment process including a platform specific settings _(Ansible)_
   * Setting up a log management architecture _(ELK: ElasticSearch, Logstash, Kibana)_
-  * Implementation of a performance monitoring architecture _(Munin)_
+  * Implementing of a performance monitoring architecture _(Munin)_
 
-### Implementation and operational maintenance of a software development platform:
+### Implementation, deployment and maintenance of a software development platform:
 
 _Platform used by a plateau of 60 people for more than 4 years_
 
@@ -63,8 +63,8 @@ _Platform used by a plateau of 60 people for more than 4 years_
   * Issue and Bugs tracker _(JIRA)_
   * Configuration management _(SVN, Git)_
   * Automated Build, continuous integration _(Maven, Hudson / Jenkins)_
-  * Continuous deployment _(Jenkins/Debian/Ansible)_
-  * Qualimetry: Sonar, Squale _(PMD, FindBugs, Checkstyle, Metrics, ...)_
+  * Continuous deployment _(Jenkins, Debian, Ansible, Docker)_
+  * Qualimetry: Sonar, Squale _(PMD, FindBugs, Checkstyle, Metrics)_
   * Binary deposit management _(Nexus)_
   * Centralized authentication _(OpenLDAP)_
   * Security and Network _(PFSense)_
@@ -73,10 +73,10 @@ _Platform used by a plateau of 60 people for more than 4 years_
 
 ### Integration and testing platform:
 
-  * Installing and Configuring 40 hypervisors _(VMWare ESXi / vSphere for more than 2 years, KVM for 2 years, partial migration to Docker)_
-  * Managing integration and testing platforms _(about 800VMs 20 platforms, 40 servers per platform)_
-  * Daily deployment of complete platforms, OS and application _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
-  * Establishment of an infrastructure of acceptance tests _(Selenium Hub ubuntu & windows nodes)_
+  * Installation and configuration of 40 hypervisors _(VMWare ESXi/vSphere for more than 2 years, KVM for 2 years, partial migration to Docker during the last year)_
+  * Managing integration and test platforms _(about 800VMs 20 platforms, 40 servers per platform)_
+  * Daily deployment of whole platforms from OS to application softwares _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
+  * Deployment of an infrastructure of acceptance tests _(Selenium Hub + ubuntu & windows nodes)_
 
 ### Referent on software integration and system integration
 
@@ -91,11 +91,12 @@ _Platform used by a plateau of 60 people for more than 4 years_
 
 _1 development mission, 2 system administration missions_
 
-  * RATP Demonstrator Développement (3 months)
+  * Development of a demonstrator for RATP (french trains company) (3 months)
   * Deployment and administration of the development server (used by fifteen developers)
-  * Making development masters Linux
+  * Creation of Linux masters for development laptops
+  * Deployment of pre-configured development laptops
 
-_Ubuntu 10.04 - 64 Bit, Linux CentOS 5.5, Eclipse 3.5 JEE, Java / JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
+_Linux Ubuntu 10.04 - 64 Bit, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
 
 ## 2010-2009 Thales Services - Project Gesplan - Quality Auditor (2 weeks)
@@ -127,7 +128,7 @@ _5 development missions, 2 system administration tasks_
   * Changes in the Comet tool, multi-language code generation tool (2 months)
   * Development of a model transformation tool M2M of communication interfaces (2 months)
   * Deployment and administration of the development server (used by about 30 people spread over 3 services)
-  * Automating deployments development positions
+  * Automating deployments of development laptops
 
 _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
@@ -136,7 +137,7 @@ _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Pat
 
 _3 development missions_
 
-  * Analysis and design of an export engine data (18 months)
+  * Analysis and design of a data export engine (18 months)
   * Designing an electronic component reduction module (2 months)
   * Designing a calculation engine based on finite difference applied to thermal science (4 months)
 
@@ -184,8 +185,9 @@ _Training, development and administration_
 | Langages   | **Java**, **groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
-| Outils de déploiement |  **Ansible**, Puppet |
+| Outils de déploiement |  **Ansible**, Puppet , **Preseed**, Kickstart |
 | Outils de développement | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**|
+| Outils de tests | Selenium, Gatling |
 | Autres outils | **Apache httpd**, **haproxy**, **Apache tomcat**, JBoss, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 | API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | Anglais |  Courant (TOEIC 865) |
@@ -200,7 +202,7 @@ _Training, development and administration_
 ### Gestion du parc des postes de développement
 
   * Création de masters de postes de développement (pré-outillés et préconfigurés) ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0, 8.0)_
-  * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ pour déploiement des postes à la demande
+  * Mise en place d'une infrastructure de clonage de masse basée sur _(Clonezilla)_ pour déployer des postes à la demande
   * Inventaire de parc automatisé _(OCS Inventory NG et GLPi)_
 
 ### Packaging, intégration et industrialisation des déploiements
@@ -221,8 +223,8 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
   * Issue and Bugs Tracker _(JIRA)_
   * Gestion de configuration _(SVN, Git)_
   * Build automatisé, intégration continue _(Maven, Hudson/Jenkins)_
-  * Déploiement continue _(Jenkins/Debian/Ansible)_
-  * Qualimétrie : Sonar, Squale _(PMD, Findbugs, Checkstyle, Metrics, ...)_
+  * Déploiement continue _(Jenkins, Debian, Ansible, Docker)_
+  * Qualimétrie : Sonar, Squale _(PMD, Findbugs, Checkstyle, Metrics)_
   * Gestion de dépôts binaire _(Nexus)_
   * Authentification centralisée _(OpenLDAP)_
   * Sécurité et Réseau _(PFSense)_
@@ -231,16 +233,16 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
 
 ### Plateforme d'intégration et de tests :
 
-  * Installation et configuration de 40 hyperviseurs _(VMWare ESXi/VSphere pendant plus de 2 ans, KVM depuis 2 an, migration partielle vers Docker en cours)_
+  * Installation et configuration de 40 hyperviseurs _(VMWare ESXi/VSphere pendant plus de 2 ans, KVM depuis 2 an, migration partielle vers Docker lors de la dernière année)_
   * Gestion des plateformes de test et intégration _(environ 800VMs : 20 plateformes, 40 serveurs par plateformes)_
-  * Déploiement journalier de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
+  * Déploiement journalier de plateformes complètes, de l'OS à l'applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
   * Mise en place d'une infrastructure de tests d'acceptance _(Selenium Hub + nodes ubuntu & windows)_
 
 ### Référent intégration logicielle et système
 
   * Mise en place de l'architecture Maven _(Maven3, Corporate POM, BOM, Projets de livraison automatisé, archetypes)_
   * Responsable de la qualité des versions du système (releases hebdomaires)
-  * Support aux équipes de développement
+  * Support aux équipes de développement et de production
 
 ## 2010	Thales Services – Démonstrateur RATP (3 mois)
 *****
@@ -252,6 +254,8 @@ _1 mission de développement, 2 missions d'administration système_
   * Développement démonstrateur RATP (3 mois)
   * Déploiement et administration du serveur de développement (utilisé par une quinzaine de développeurs)
   * Création de Masters de postes de développement
+  * Déploiement de poste de traveil pre-configurés
+
 _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
 ## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
