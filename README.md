@@ -1,7 +1,3 @@
-TODO 0 : Relire et chercher les TODO partout
-TODO 1 : Use provisioning word
-TODO 2 : Rajouter exemple Gradle
-
     Aurélien Campergue, 33 ans
     Renatastraße 17b,
     80634 München
