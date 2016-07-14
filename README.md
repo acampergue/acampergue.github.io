@@ -1,10 +1,11 @@
+TODO 0 : Relire et chercher les TODO partout
 TODO 1 : Use provisioning word
-TODO 2 : Rajouter exemple Gradle 
-    
-    Aurélien Campergue, 32 ans
-    1551 rue Louis Blériot
-    78530 Buc
-    06.73.61.97.69
+TODO 2 : Rajouter exemple Gradle
+
+    Aurélien Campergue, 33 ans
+    Renatastraße 17b,
+    80634 München
+    +33 6 73 61 97 69
     aurelien.campergue@gmail.com
 
 
@@ -20,11 +21,13 @@ TODO 2 : Rajouter exemple Gradle
 
 |                 |          |
 |:-----------|:------------|
-| Virtualisation & Conteneurisation |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
-| Languages | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, **PFSense**, Windows |
-| Methodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
-| Tools |  **Ansible**, Puppet, **Maven**, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, **Apache httpd**, **haproxy**, Apache tomcat, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Virtualization & Containerization |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
+| Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
+| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
+| Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
+| Deployment tools |  **Ansible**, Puppet |
+| Development tools | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**
+| Other tools |  **Apache httpd**, **haproxy**, **Apache tomcat**, **JBoss**, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 |  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | English |  Fluent English (TOEIC 865) |
 | German |  Read, written, spoken |
@@ -33,12 +36,12 @@ TODO 2 : Rajouter exemple Gradle
 # Professional experience
 *****
 
-## 2015 - 2010 Thales Services - Project Dune (42 months)
+## 2016 - 2010 Thales Services - Project Dune (42 months)
 *****
 
 ### Software development park management
 
-TODO 1 : Use provisioning word 
+TODO 1 : Use provisioning word
   * Creation of masters for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
   * Implementation of a mass cloning infrastructure _(Clonezilla)_ to deploy developer computers on the fly
   * Automated park Inventory _(OCS Inventory NG and GLPI)_
@@ -163,7 +166,7 @@ _Training, development and administration_
   * Recognized technical expert
   * Can work on projects classified as a military secret
   * Hobbies: Swing Dancing, French boxing, Krav-Maga, skateboarding
-  
+
 
 *****
 # FRENCH VERSION
@@ -178,12 +181,14 @@ _Training, development and administration_
 |                 |          |
 |:-----------|:------------|
 | Virtualisation & Conteneurisation |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
-| Langages   | **Java**, **Python**, XML, PHP, SQL, HTML, **Bash**, C#, C++, C, VB, VBA, COBOL, ADA|    
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, Ipcop, **PFSense**, Windows |
+| Langages   | **Java**, **groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
+| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
-| Outils |  **Ansible**, Puppet, **Maven**, Hudson, **Jenkins**, Sonar, **Nexus**, **Subversion**, **GIT**, **Apache httpd**, **haproxy**, Apache tomcat, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Outils de déploiement |  **Ansible**, Puppet |
+| Outils de développement | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**|
+| Autres outils | **Apache httpd**, **haproxy**, **Apache tomcat**, JBoss, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 | API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
-| Anglais |  Très bon niveau (TOEIC 865) |
+| Anglais |  Courant (TOEIC 865) |
 | Allemand |  Lu, écrit, parlé |
 
 # Expérience professionnelle
@@ -197,7 +202,7 @@ _Training, development and administration_
   * Création de masters de postes de développement (pré-outillés et préconfigurés) ; _Ubuntu (10.04, 11.04, 12.04, 13.04) ; Mint (14,15) ; Debian (6.0, 7.0, 8.0)_
   * Mise en place d'une infrastructure de clonage de masse _(Clonezilla)_ pour déploiement des postes à la demande
   * Inventaire de parc automatisé _(OCS Inventory NG et GLPi)_
-  
+
 ### Packaging, intégration et industrialisation des déploiements
 
   * Automatisation des déploiements des hyperviseurs _(Preseed, Puppet, Ansible)_
@@ -206,7 +211,7 @@ _Training, development and administration_
   * Mise en place d'un processus de déploiement continu incluant un paramétrage spécifique de plateforme _(Ansible)_
   * Mise en place d'une architecture de gestion de logs _(Elasticsearch, Logstash, Kibana, Redis)_
   * Mise en place d'une architecture de supervision des performances _(Munin)_
-  
+
 
 ### Mise en place et maintien en condition opérationnelle d'une plateforme de développement logiciel :
 
@@ -230,12 +235,12 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
   * Gestion des plateformes de test et intégration _(environ 800VMs : 20 plateformes, 40 serveurs par plateformes)_
   * Déploiement journalier de plateformes complètes, OS et applicatif _(40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
   * Mise en place d'une infrastructure de tests d'acceptance _(Selenium Hub + nodes ubuntu & windows)_
-  
+
 ### Référent intégration logicielle et système
 
   * Mise en place de l'architecture Maven _(Maven3, Corporate POM, BOM, Projets de livraison automatisé, archetypes)_
   * Responsable de la qualité des versions du système (releases hebdomaires)
-  * Support aux équipes de développement 
+  * Support aux équipes de développement
 
 ## 2010	Thales Services – Démonstrateur RATP (3 mois)
 *****
@@ -318,4 +323,3 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
   * Expert Technique reconnu
   * Habilitable Confidentiel Défense
   * Loisirs : Danses Swing, boxe française, Krav-Maga, skateboard
-
