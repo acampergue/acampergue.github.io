@@ -15,7 +15,7 @@
 # Skills Summary
 *****
 
-|                 |          |
+| Domain | Skills |
 |:-----------|:------------|
 | Virtualization & Containerization |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
 | Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
@@ -160,7 +160,7 @@ _Training, development and administration_
 # Training
 *****
 
-|                 |          |
+| Date | certificate |
 |:-----------|:------------|
 | 2003-2008 |  Engineering degree by apprenticeship, specialty in computer science, IFIPS (former FIIFO), Orsay |
 | 2002-2003 |  CPGE TSI, electronic and mechanical, Rueil Malmaison |
@@ -184,7 +184,7 @@ _Training, development and administration_
 # Synthèse des  compétences
 *****
 
-|                 |          |
+| Domaine | Compétences |
 |:-----------|:------------|
 | Virtualisation & Conteneurisation |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
 | Langages   | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
@@ -328,7 +328,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 # Formation
 *****
 
-|                 |          |
+| Date | Diplôme |
 |:-----------|:------------|
 | 2003-2008 |  Diplôme d’ingénieur par apprentissage, spécialité informatique, IFIPS (ex FIIFO), Orsay |
 | 2002-2003 |  CPGE TSI, électronique et mécanique, Rueil Malmaison |
