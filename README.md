@@ -10,22 +10,24 @@
 *****
 
 # <center>**DevOps Engineer**</center>
-## <center>Specialties: Docker, Ansible, Python, KVM, Linux, Java, Maven</center>
+## <center>Specialties: Docker, Ansible, Python, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Skills Summary
 *****
 
 |                 |          |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
+| Virtualization & Containerization |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
 | Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
 | Deployment tools |  **Ansible**, Puppet, **Preseed**, Kickstart |
-| Development tools | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**
+| Development tools | **Gradle**, **Maven**, **Jenkins**, Bamboo, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
+| Log management tools | ElasticSearch, Logstash, Fluentd, Kibana |
 | Testing tools | Selenium, Gatling |
-| Other tools |  **Apache httpd**, **haproxy**, **Apache tomcat**, **JBoss**, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Other tools | Xwiki, Confluence, **Apache httpd**, **haproxy**, **Apache tomcat**, **JBoss**, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 |  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
+| French | Mother tongue |
 | English |  Fluent English (TOEIC 865) |
 | German |  Read, written, spoken |
 
@@ -33,7 +35,14 @@
 # Professional experience
 *****
 
-## 2016 - 2010 Thales Services - Project Dune (42 months)
+## 2016-now - Build Engineer - Workday (Dublin, Ireland for 3 months then Munich, Germany)
+*****
+
+  * Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
+  * Writing scripts to automate data updates between webservices _(Groovy, Bamboo, JIRA, Confluence)_
+  * Partial migration from Ant _(Ant, Gradle)_
+
+## 2016-2010 - DevOps Engineer - Project Dune (42 months) - Thales Services (Vélizy-Villacoublay, France)
 *****
 
 ### Software development park management
@@ -80,7 +89,7 @@ _Platform used by a plateau of 60 people for more than 4 years_
   * Responsible for the quality of system versions (weekly releases)
   * Development and production teams Support
 
-## 2010 Thales Services - RATP Demonstrator (3 months)
+## 2010 - Devops Engineer & Software Developer - RATP Demonstrator (3 months) - Thales Services (Vélizy-Villacoublay, France)
 *****
 
 ### Technical Adviser, Head of Continuous Integration, System Administrator
@@ -95,14 +104,14 @@ _1 development mission, 2 system administration missions_
 _Linux Ubuntu 10.04 - 64 Bit, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
 
-## 2010-2009 Thales Services - Project Gesplan - Quality Auditor (2 weeks)
+## 2010-2009 - Quality Auditor - Project Gesplan (2 weeks) - Thales Services (Vélizy-Villacoublay, France)
 *****
 
   * Quality audit of the JEE application Gesplan
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
-## 2010-2009 Thales Services - Denmark Project - Technical Adviser (6 months)
+## 2010-2009 - Technical Adviser & Software Developer - Denmark Project (6 months) - Thales Services (Vélizy-Villacoublay, France)
 *****
 
 _1 development mission, 2 system administration missions_
@@ -113,7 +122,7 @@ _1 development mission, 2 system administration missions_
 
 _Java JEE 1.6, AspectJ, Spring 2.5, GWT GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, ​​Test Driven Development, Pair Programming, Iterative schedule_
 
-## 2008-2009 Thales Air Systems, Weapon Systems - Designer and Java Developer
+## 2008-2009 - Software Developer & Designer - Thales Air Systems, Weapon Systems (Rungis, France)
 *****
 
 _5 development missions, 2 system administration tasks_
@@ -128,7 +137,7 @@ _5 development missions, 2 system administration tasks_
 
 _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
-## Thales EPM 2006-2008 - Engineer and Java development
+## 2006-2008 - Software Developer - Thales EPM (Orsay, France)
 *****
 
 _3 development missions_
@@ -139,7 +148,7 @@ _3 development missions_
 
 _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_
 
-## CMS Informatic 2005-2006 - Consultant
+## 2005-2006 - Consultant & Trainer - CMS Informatic (Les Ulis, France)
 *****
 
 _Training, development and administration_
@@ -153,9 +162,9 @@ _Training, development and administration_
 
 |                 |          |
 |:-----------|:------------|
-| 2003-2008 |  Engineering degree by apprenticeship, computer science specialty IFIPS (ex FIIFO) Orsay |
+| 2003-2008 |  Engineering degree by apprenticeship, specialty in computer science, IFIPS (former FIIFO), Orsay |
 | 2002-2003 |  CPGE TSI, electronic and mechanical, Rueil Malmaison |
-| 2001-2002 |  Bachelor with electronic specialty (honors), Carrières sur Seine |
+| 2001-2002 |  Bachelor with specialty in electronic (honors), Carrières sur Seine |
 
 # Various
 *****
@@ -170,21 +179,22 @@ _Training, development and administration_
 *****
 
 # <center>**Ingénieur DevOps**</center>
-## <center>Spécialités : Docker, Ansible, Python, KVM, Linux, Java, Maven </center>
+## <center>Spécialités : Docker, Ansible, Python, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Synthèse des  compétences
 *****
 
 |                 |          |
 |:-----------|:------------|
-| Virtualisation & Conteneurisation |  **Docker**, **KVM**, LXC, VMWare ESXi, Vcenter |
-| Langages   | **Java**, **groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
+| Virtualisation & Conteneurisation |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
+| Langages   | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
 | Outils de déploiement |  **Ansible**, Puppet , **Preseed**, Kickstart |
-| Outils de développement | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**|
+| Outils de développement | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
+| Outils de gestion des logs | ElasticSearch, Logstash, Fluentd, Kibana |
 | Outils de tests | Selenium, Gatling |
-| Autres outils | **Apache httpd**, **haproxy**, **Apache tomcat**, JBoss, Cassandra, Redis, Redmine, JIRA, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Autres outils | Xwiki, Confluence, **Apache httpd**, **haproxy**, **Apache tomcat**, JBoss, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 | API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | Anglais |  Courant (TOEIC 865) |
 | Allemand |  Lu, écrit, parlé |
@@ -192,7 +202,14 @@ _Training, development and administration_
 # Expérience professionnelle
 *****
 
-## 2015 - 2010	Thales Services – Projet Dune (42 mois)
+## 2016-now - Ingénieur de construction logicielle - Workday (Dublin, Irlande pendant 3 mois puis Munich, Allemagne)
+*****
+
+  * Déploiement d'un environnement d'intégration continue utilisant Jenkins sur un cluster Docker et muni d'un système de gestion de logs centralisé _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
+  * Rédaction de scripts permettant de mettre à  jour les données entre différents services Web _(Groovy, Bamboo, JIRA, Confluence)_
+  * Migration partielle depuis Ant vers Gradle _(Ant, Gradle)_
+
+## 2016-2010 - Ingénieur DevOps – Projet Dune (42 mois)	- Thales Services (Vélizy-Villacoublay, France)
 *****
 
 ### Gestion du parc des postes de développement
@@ -240,7 +257,7 @@ _Plateforme utilisée par un plateau de 60 personnes pendant plus de 4 ans_
   * Responsable de la qualité des versions du système (releases hebdomaires)
   * Support aux équipes de développement et de production
 
-## 2010	Thales Services – Démonstrateur RATP (3 mois)
+## 2010	- Ingenieur DevOps et développeur logiciel – Démonstrateur RATP (3 mois) - Thales Services (Vélizy-Villacoublay, France)
 *****
 
 ### Référent Technique, Responsable de l'intégration continue, Administrateur Système
@@ -254,14 +271,14 @@ _1 mission de développement, 2 missions d'administration système_
 
 _Linux Ubuntu 10.04 - 64 Bits, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, VCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-## 2010-2009	Thales Services – Projet Gesplan – Auditeur Qualité (2 semaines)
+## 2010-2009 – Auditeur Qualité  – Projet Gesplan (2 semaines) -	Thales Services (Vélizy-Villacoublay, France)
 *****
 
   * Audit de qualité de l'application JEE Gesplan
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma_
 
-## 2010-2009	Thales Services – Projet Danemark - Référent Technique (6 mois)
+## 2010-2009 - Référent Technique et développeur logiciel – Projet Danemark (6 mois) -	Thales Services (Vélizy-Villacoublay, France)
 *****
 
 *1 mission de développement, 2 missions d'administration système*
@@ -272,7 +289,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 
 *Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & GWT 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, Jdepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative Planning*
 
-## 2008-2009	Thales Air Systems, Weapon Systems – Concepteur et développeur Java
+## 2008-2009 – Concepteur et développeur Java - Thales Air Systems, Weapon Systems (Rungis, France)
 *****
 
 *5 missions de développement, 2 missions d'administration système*
@@ -287,7 +304,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 
 *Java J2SE  version 1.6, Maven 2, Eclipse 3.5, Subversion, Redmine, Design Patterns GOF & GRASP*
 
-## 2006-2008	Thales EPM – Ingénieur études et développement Java
+## 2006-2008 - Ingénieur études et développement Java -	Thales EPM (Orsay, France)
 *****
 
 *3 missions de développement*
@@ -298,7 +315,7 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 
 *Java J2SE  version 1.4 & 1.6, Eclipse 3.4/3.3/3.2*
 
-## 2005-2006	CMS Informatic - Consultant
+## 2005-2006 - Consultant	et Formateur - CMS Informatic (Les Ulis, France)
 *****
 
 *Formation, développement et administration*
