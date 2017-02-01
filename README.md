@@ -1,7 +1,8 @@
     Aurélien Campergue, 33 ans
-    Renatastraße 17b,
+    Richelstraße 24,
     80634 München
     +33 6 73 61 97 69
+    +49 152 59320180
     aurelien.campergue@gmail.com
 
 
@@ -10,22 +11,22 @@
 *****
 
 # <center>**DevOps Engineer**</center>
-## <center>Specialties: Docker, Ansible, Python, KVM, Linux, Java, Maven, Groovy, Gradle</center>
+## <center>Specialties: Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Skills Summary
 *****
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
-| Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
+| Virtualization & Containerization |  **Docker**, Swarm, Consul, DC/OS, Kubernetes, **KVM**, LXC, VMWare ESXi, Vcenter, VCD |
+| Deployment tools |  **Ansible**, **Puppet**, **Preseed**, Kickstart |
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
-| Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
-| Deployment tools |  **Ansible**, Puppet, **Preseed**, Kickstart |
 | Development tools | **Gradle**, **Maven**, **Jenkins**, Bamboo, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
+| Languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
+| Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
 | Log management tools | ElasticSearch, Logstash, Fluentd, Kibana |
 | Testing tools | Selenium, Gatling |
-| Other tools | Xwiki, Confluence, **Apache httpd**, **haproxy**, **Apache tomcat**, **JBoss**, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Other tools | Xwiki, Confluence, **Apache httpd** **haproxy**, **Apache tomcat**, nginx, JBoss, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 |  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | French | Mother tongue |
 | English |  Fluent English (TOEIC 865) |
@@ -35,7 +36,13 @@
 # Professional experience
 *****
 
-## 2016-now - Build Engineer - Workday (Dublin, Ireland for 3 months then Munich, Germany)
+## November 2016 - Now - DevOps Engineer - Travian Games (Munich, Germany)
+*****
+
+  * Refactoring of the configuration management base _(Puppet, Python, Git, Stash)_
+  * Building containerisation scalable infrastructure _(DC/OS, Docker)_
+
+## April 2016 - October 2016 - Build Engineer - Workday (Dublin, Ireland and Munich, Germany)
 *****
 
   * Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
@@ -170,7 +177,7 @@ _Training, development and administration_
 *****
 
   * Recognized technical expert
-  * Can work on projects classified as a military secret
+  * Ability to work on projects classified as secret defense
   * Hobbies: Swing Dancing, French boxing, Krav-Maga, skateboarding
 
 
@@ -179,22 +186,22 @@ _Training, development and administration_
 *****
 
 # <center>**Ingénieur DevOps**</center>
-## <center>Spécialités : Docker, Ansible, Python, KVM, Linux, Java, Maven, Groovy, Gradle</center>
+## <center>Spécialités : Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Synthèse des  compétences
 *****
 
 | Domaine | Compétences |
 |:-----------|:------------|
-| Virtualisation & Conteneurisation |  **Docker**, Swarm, Consul, **KVM**, LXC, VMWare ESXi, Vcenter |
-| Langages   | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|    
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
-| Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
+| Virtualisation & Conteneurisation |  **Docker**, Swarm, Consul, DC/OS, Kubernetes, **KVM**, LXC, VMWare ESXi, Vcenter |
 | Outils de déploiement |  **Ansible**, Puppet , **Preseed**, Kickstart |
+| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
 | Outils de développement | **Gradle**, **Maven**, **Jenkins**, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
+| Langages   | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
+| Méthodologies |  **UML**, **Design Pattern** GRASP & GOF, méthodes **Agiles**, Merise, Merise 2 |
 | Outils de gestion des logs | ElasticSearch, Logstash, Fluentd, Kibana |
 | Outils de tests | Selenium, Gatling |
-| Autres outils | Xwiki, Confluence, **Apache httpd**, **haproxy**, **Apache tomcat**, JBoss, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
+| Autres outils | Xwiki, Confluence, **Apache httpd**, **haproxy**, **Apache tomcat**, nginx, JBoss, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
 | API & Frameworks |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
 | Anglais |  Courant (TOEIC 865) |
 | Allemand |  Lu, écrit, parlé |
@@ -202,7 +209,13 @@ _Training, development and administration_
 # Expérience professionnelle
 *****
 
-## 2016-now - Ingénieur de construction logicielle - Workday (Dublin, Irlande pendant 3 mois puis Munich, Allemagne)
+## Novembre 2016 - aujourd'hui - Ingénieur DevOps - Travian Games (Munich, Allemagne)
+*****
+
+  * Refactoring de la base de code de configuration management _(Puppet, Python, Git, Stash)_
+  * Construction d'une infrastructure scalable de containerisation _(DC/OS, Docker)_
+
+## Avril 2016 - Octobre 2016 - Ingénieur de construction logicielle - Workday (Dublin, Irlande et Munich, Allemagne)
 *****
 
   * Déploiement d'un environnement d'intégration continue utilisant Jenkins sur un cluster Docker et muni d'un système de gestion de logs centralisé _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
@@ -338,5 +351,5 @@ _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, Jdepend, PMD, Ch
 *****
 
   * Expert Technique reconnu
-  * Habilitable Confidentiel Défense
+  * Habilitable Secret Défense
   * Loisirs : Danses Swing, boxe française, Krav-Maga, skateboard
