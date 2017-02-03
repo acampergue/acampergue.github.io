@@ -1,16 +1,13 @@
 ~~~~
 Aurélien Campergue, 33 ans
-Richelstraße 24,
-80634 München
-+33 6 73 61 97 69
-+49 152 59320180
+München Neuhausen
 aurelien.campergue@gmail.com
 ~~~~
 
 ENGLISH VERSION
 ===============================================================================
 
-# <center>**DevOps Engineer**</center>
+# <center>DevOps Engineer</center>
 ## <center>Specialties: Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Skills Summary
@@ -184,7 +181,7 @@ _Training, development and administration_
 FRENCH VERSION
 ===============================================================================
 
-# <center>**Ingénieur DevOps**</center>
+# <center>Ingénieur DevOps</center>
 ## <center>Spécialités : Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
 
 # Synthèse des  compétences
