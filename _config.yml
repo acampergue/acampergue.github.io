@@ -2,7 +2,7 @@ title: DevOps Engineer
 description: Docker, Ansible, Python, KVM, Linux, Java, Maven, Groovy, Gradle
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
