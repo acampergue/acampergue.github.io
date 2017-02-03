@@ -7,9 +7,8 @@ Richelstraße 24,
 aurelien.campergue@gmail.com
 ~~~~
 
-*****
-# ENGLISH VERSION
-*****
+ENGLISH VERSION
+===============================================================================
 
 # <center>**DevOps Engineer**</center>
 ## <center>Specialties: Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
@@ -182,9 +181,8 @@ _Training, development and administration_
 * Hobbies: Swing Dancing, French boxing, Krav-Maga, skateboarding
 
 
-*****
-# FRENCH VERSION
-*****
+FRENCH VERSION
+===============================================================================
 
 # <center>**Ingénieur DevOps**</center>
 ## <center>Spécialités : Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
