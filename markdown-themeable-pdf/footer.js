@@ -9,7 +9,7 @@
  */
 module.exports = function (info) {
     var dateFormat = function () {
-        return (new Date()).toLocaleDateString('en-US', {
+        return (new Date()).toLocaleDateString('de-DE', {
             weekday: 'long',
             year: 'numeric',
             month: 'short',
@@ -20,6 +20,6 @@ module.exports = function (info) {
     };
     return {
         height: '1cm',
-        contents: '<div style="float:left;">Page {{page}}/{{pages}}</div><div style="float:right;">&copy; Copyright ' + dateFormat() + ' by COMPANYNAME</div>'
+        contents: '<div style="float:left;">Page {{page}}/{{pages}}</div><div style="float:right;">last updated : ' + dateFormat() + '</div>'
     };
 };
