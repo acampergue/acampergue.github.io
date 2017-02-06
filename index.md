@@ -1,5 +1,5 @@
 ~~~~
-Aurélien Campergue, 33 ans
+Aurélien Campergue
 München Neuhausen
 aurelien.campergue@gmail.com
 ~~~~
