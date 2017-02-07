@@ -34,18 +34,18 @@ aurelien.campergue@gmail.com
 
 # Professional experience
 
-## 2017-2016 (4 months) - DevOps Engineer - _Travian Games (Munich, Germany)_
+## 2017-2016 (4 months) - DevOps Engineer - _Travian Games (Munich)_
 
 * Refactoring of the configuration management code base _(Puppet, Python, Git, Stash)_
 * Building containerisation scalable infrastructure _(DC/OS, Docker)_
 
-## 2016 (7 months) - Build Engineer - _Workday (Ireland / Germany)_
+## 2016 (7 months) - Build Engineer - _Workday (Dublin / Munich)_
 
 * Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
 * Writing scripts to automate data updates between webservices _(Groovy, Bamboo, JIRA, Confluence)_
 * Partial migration from Ant _(Ant, Gradle)_
 
-## 2016-2010 (3 and a 1/2 years) - DevOps Engineer - _Thales Services (France)_
+## 2016-2010 (5 years) - DevOps Engineer - _Thales Services (Paris)_
 
 ### Software development park management
 
@@ -64,7 +64,7 @@ aurelien.campergue@gmail.com
 
 ### Implementation, deployment and maintenance of a software development platform:
 
-_Platform used by a plateau of 60 people for more than 4 years_
+_Platform used by a team of 60 people_
 
 * Collaborative Document Management _(Xwiki)_
 * Issue and Bugs tracker _(JIRA)_
@@ -91,7 +91,7 @@ _Platform used by a plateau of 60 people for more than 4 years_
 * Responsible for the quality of system versions (weekly releases)
 * Development and production teams Support
 
-## 2010 (3 months) - Devops Engineer & Software Developer - _Thales Services (France)_
+## 2010 (3 months) - Devops Engineer & Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -102,13 +102,13 @@ _1 development mission, 2 system administration missions_
 
 _Linux Ubuntu 10.04 - 64 Bit, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
-## 2010-2009 (2 weeks) - Quality Auditor - _Thales Services (France)_
+## 2010 (2 weeks) - Quality Auditor - _Thales Services (Paris)_
 
 * Quality audit of the JEE application Gesplan
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
-## 2010-2009 (6 months) - Software Developer - _Thales Services (France)_
+## 2010-2009 (6 months) - Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -120,7 +120,7 @@ _Java JEE 1.6, AspectJ, Spring 2.5, GWT GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JE
 
 <div class="page-break" />
 
-## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (France)_
+## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (Paris)_
 
 _5 development missions, 2 system administration tasks_
 
@@ -134,7 +134,7 @@ _5 development missions, 2 system administration tasks_
 
 _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
-## 2006-2008 (2 years) - Software Developer - _Thales EPM (France)_
+## 2006-2008 (2 years) - Software Developer - _Thales EPM (Paris)_
 
 _3 development missions_
 
@@ -144,7 +144,7 @@ _3 development missions_
 
 _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_
 
-## 2005-2006 (1 year) - Consultant & Trainer - _CMS Informatic (France)_
+## 2005-2006 (1 year) - Consultant & Trainer - _CMS Informatic (Paris)_
 
 _Training, development and administration_
 
