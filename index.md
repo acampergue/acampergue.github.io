@@ -37,6 +37,7 @@ ENGLISH VERSION
 *****
 
 * Refactoring of the configuration management base _(Puppet, Python, Git, Stash)_
+* Management of Cloud infrastructure _(VMware VCD, AWS, terraform)_
 * Building containerisation scalable infrastructure _(DC/OS, Docker)_
 
 ## April 2016 - October 2016 - Build Engineer - Workday (Dublin, Ireland and Munich, Germany)
