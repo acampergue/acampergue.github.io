@@ -18,26 +18,26 @@ aurelien.campergue@gmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, Swarm, Consul, DC/OS, Kubernetes, **KVM**, LXC, VMWare ESXi, Vcenter, VCD |
+| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, Packer, Vagrant, **KVM**, LXC, VMWare |
 | Deployment tools |  **Ansible**, **Puppet**, **Preseed**, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense**, MacOS, Windows |
+| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense** |
 | Development tools | **Gradle**, **Maven**, **Jenkins**, Bamboo, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
 | Programmation languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
 | Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
-| Log management tools | ElasticSearch, Logstash, Fluentd, Kibana |
+| Log management | ElasticSearch, Logstash, Fluentd, Kibana |
 | Testing tools | Selenium, Gatling |
-| Other tools | Xwiki, Confluence, **Apache httpd** **haproxy**, **Apache tomcat**, nginx, JBoss, Cassandra, Redis, JAXB, JDOM, Drupal, Joomla, Jdepend, PMD, Checkstyle, FindBugs, CPD, Junit, Jmock, Mockito, Cobertura, Emma, Jacoco |
-|  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT** (Gxt, SmartGWT), Log4J, **SLF4J**, **Logback**, JPA, JDO, Hibernate |
+| Other tools | Xwiki, Confluence, **Apache httpd**, nginx, **haproxy**, JBoss, tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
+|  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT**, **SLF4J**, **Logback** |
 | Languages | French (Mother tongue), English (Fluent), German (Average) |
 
 <div class="page-break" />
 
 # Professional experience
 
-## 2017-2016 (4 months) - DevOps Engineer - _Travian Games (Munich)_
+## today-2016 (6 months) - DevOps Engineer - _Travian Games (Munich)_
 
 * Refactoring of the configuration management code base _(Puppet, Python, Git, Stash)_
-* Building containerisation scalable infrastructure _(DC/OS, Docker)_
+* Building a containerisation scalable infrastructure _(Kubernetes, DC/OS, Docker, Packer, Vagrant)_
 
 ## 2016 (7 months) - Build Engineer - _Workday (Dublin / Munich)_
 
@@ -156,7 +156,7 @@ _Training, development and administration_
 
 | Date | certificate |
 |:-----------|:------------|
-| 2003-2008 |  Engineering degree by apprenticeship, specialty in computer science, IFIPS (former FIIFO), Orsay |
+| 2003-2008 |  Engineering degree by apprenticeship, specialty in computer science, IFIPS, Orsay |
 | 2002-2003 |  CPGE TSI, electronic and mechanical, Rueil Malmaison |
 | 2001-2002 |  Bachelor with specialty in electronic (honors), Carrières sur Seine |
 
