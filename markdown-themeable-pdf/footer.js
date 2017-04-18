@@ -9,7 +9,7 @@
  */
 module.exports = function (info) {
     var dateFormat = function () {
-        return (new Date()).toLocaleDateString('de-DE', {
+        return (new Date()).toLocaleDateString('en-EN', {
             weekday: 'long',
             year: 'numeric',
             month: 'short',
