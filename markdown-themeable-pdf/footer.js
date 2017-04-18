@@ -19,7 +19,7 @@ module.exports = function (info) {
         });
     };
     return {
-        height: '1cm',
+        height: '7mm',
         contents: '<div style="float:left;">Page {{page}}/{{pages}}</div><div style="float:right;">last updated : ' + dateFormat() + '</div>'
     };
 };
