@@ -18,7 +18,7 @@ aurelien.campergue@gmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, Packer, Vagrant, **KVM**, LXC, VMWare |
+| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, AWS, Packer, Vagrant, **KVM**, LXC, VMWare |
 | Deployment tools |  **Ansible**, **Puppet**, **Preseed**, Kickstart |
 | OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense** |
 | Development tools | **Gradle**, **Maven**, **Jenkins**, Bamboo, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
