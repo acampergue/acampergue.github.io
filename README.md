@@ -18,30 +18,31 @@ aurelien.campergue@gmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, AWS, Packer, Vagrant, **KVM**, LXC, VMWare |
-| Deployment tools |  **Ansible**, **Puppet**, **Preseed**, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, Fedora, CentOS, RedHat, **Freenas**, Ipcop, **PFSense** |
-| Development tools | **Gradle**, **Maven**, **Jenkins**, Bamboo, Sonar, Nexus, **Subversion**, **GIT**, Redmine, JIRA |
-| Programmation languages | **Java**, **Groovy**, XML, **Bash**, **Python**, PHP, HTML, VB, VBA, SQL|
-| Methodologies |  **UML**, **Design Pattern** GRASP & GOF, **Agile**, Merise, Merise 2 |
+| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, Packer, Vagrant, AWS, KVM, LXC, VMWare |
+| Deployment tools |  **Ansible**, **Puppet**, Preseed, Kickstart |
+| OS | **Debian**, Ubuntu, Mint, Fedora, CentOS, RedHat, Freenas, Ipcop, PFSense, OPNSense |
+| Development tools | **GIT**, Gradle, Maven, Jenkins, Bamboo, Sonar, Nexus, Subversion, Redmine, JIRA |
+| Programmation languages | Java, Groovy, XML, Bash, Python, PHP, HTML, VB, VBA, SQL|
+| Methodologies |  UML, Design Pattern GRASP & GOF, Agile, Merise, Merise 2 |
 | Log management | ElasticSearch, Logstash, Fluentd, Kibana |
 | Testing tools | Selenium, Gatling |
-| Other tools | Xwiki, Confluence, **Apache httpd**, nginx, **haproxy**, JBoss, tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
-|  Frameworks & APIs |  **Spring** (IoC, AOP, MVC), **GWT**, **SLF4J**, **Logback** |
+| Other tools | Xwiki, Confluence, Apache httpd, Nginx, Haproxy, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
+|  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | French (Mother tongue), English (Fluent), German (Average) |
 
 <div class="page-break" />
 
 # Professional experience
 
-## today-2016 (6 months) - DevOps Engineer - _Travian Games (Munich)_
+## Since November 2016 - DevOps Engineer - _Travian Games (Munich)_
 
+* Building a containerisation scalable infrastructure _(**Kubernetes**, DC/OS, **Docker**, Packer, Vagrant)_
+* Build a CI/CD Pipeline with one of the development team
 * Refactoring of the configuration management code base _(Puppet, Python, Git, Stash)_
-* Building a containerisation scalable infrastructure _(Kubernetes, DC/OS, Docker, Packer, Vagrant)_
 
 ## 2016 (7 months) - Build Engineer - _Workday (Dublin / Munich)_
 
-* Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, Docker, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
+* Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, **Docker**, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
 * Writing scripts to automate data updates between webservices _(Groovy, Bamboo, JIRA, Confluence)_
 * Partial migration from Ant _(Ant, Gradle)_
 
@@ -66,21 +67,20 @@ aurelien.campergue@gmail.com
 
 _Platform used by a team of 60 people_
 
+* **Continuous integration** _(Maven, Hudson / Jenkins)_
+* **Continuous deployment** _(Jenkins, Debian, Ansible, **Docker**)_
 * Collaborative Document Management _(Xwiki)_
 * Issue and Bugs tracker _(JIRA)_
 * Configuration management _(SVN, Git)_
-* Automated Build, continuous integration _(Maven, Hudson / Jenkins)_
-* Continuous deployment _(Jenkins, Debian, Ansible, Docker)_
 * Qualimetry: Sonar, Squale _(PMD, FindBugs, Checkstyle, Metrics)_
 * Binary deposit management _(Nexus)_
 * Centralized authentication _(OpenLDAP)_
 * Security and Network _(PFSense)_
-* Park Management _(Foreman)_
 * Highly available unified access portal for previous web services (haproxy, apache httpd)
 
 ### Integration and testing platform:
 
-* Installation and configuration of 40 hypervisors _(VMWare ESXi/vSphere for more than 2 years, KVM for 2 years, partial migration to Docker during the last year)_
+* Installation and configuration of 40 hypervisors _(VMWare ESXi/vSphere for more than 2 years, KVM for 2 years, partial migration to **Docker** during the last year)_
 * Managing integration and test platforms _(about 800VMs 20 platforms, 40 servers per platform)_
 * Daily deployment of whole platforms from OS to application softwares _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
 * Deployment of an infrastructure of acceptance tests _(Selenium Hub + ubuntu & windows nodes)_
@@ -163,4 +163,4 @@ _Training, development and administration_
 # Various
 
 * Ability to work on projects classified as secret defense
-* Hobbies: swing dancing, french boxing, krav-maga, skateboarding
+* Hobbies/Interests: Swing dancing, Trading, Permaculture, Ericksonian Hypnosis
