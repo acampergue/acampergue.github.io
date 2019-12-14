@@ -10,7 +10,7 @@ aurelien.campergue@gmail.com
 
 <br/>
 
-### <center>Specialties: Docker, Ansible, Python, Puppet, KVM, Linux, Java, Maven, Groovy, Gradle</center>
+### <center>Specialties: Linux, Docker, Kubernetes, Java, Maven, Ansible</center>
 
 <br/>
 
@@ -18,15 +18,15 @@ aurelien.campergue@gmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **Kubernetes**, Swarm, DC/OS, Packer, Vagrant, AWS, KVM, LXC, VMWare |
-| Deployment tools |  **Ansible**, **Puppet**, Preseed, Kickstart |
-| OS | **Debian**, Ubuntu, Mint, Fedora, CentOS, RedHat, Freenas, Ipcop, PFSense, OPNSense |
-| Development tools | **GIT**, Gradle, Maven, Jenkins, Bamboo, Sonar, Nexus, Subversion, Redmine, JIRA |
-| Programmation languages | Java, Groovy, XML, Bash, Python, PHP, HTML, VB, VBA, SQL|
-| Methodologies |  UML, Design Pattern GRASP & GOF, Agile, Merise, Merise 2 |
+| Virtualization & Containerization |  **Docker**, **Kubernetes**, AWS, KVM, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
+| Deployment tools |  Helm, **Ansible**, Puppet, Preseed, Kickstart |
+| OS | **Debian**, **Mint**, Ubuntu, Fedora, CentOS, RedHat, **Freenas**, Ipcop, PFSense, **OPNSense** |
+| Development tools | **GIT**, **Maven**, Gradle, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine |
+| Programmation languages | Java, Groovy, Python, Bash |
+| Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
 | Log management | ElasticSearch, Logstash, Fluentd, Kibana |
 | Testing tools | Selenium, Gatling |
-| Other tools | Xwiki, Confluence, Apache httpd, Nginx, Haproxy, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
+| Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
 |  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | French (Mother tongue), English (Fluent), German (Average) |
 
@@ -34,9 +34,16 @@ aurelien.campergue@gmail.com
 
 # Professional experience
 
-## Since November 2016 - DevOps Engineer - _Travian Games (Munich)_
+## Since <MONTH> 2018 - DevOps Engineer - _Onpex (Munich)_
 
-* Building a containerisation scalable infrastructure _(**Kubernetes**, DC/OS, **Docker**, Packer, Vagrant)_
+* Migrate the Puppet deployment code base code to Ansible _(Puppet, Ansible)_
+* Build a Kubernetes cluster _(Kubernetes, Kops, EKS)_
+* Maintained automatic deployment pipelines _(Kubernetes, Helm, Gitlab)_
+* Dockerize applications _(Docker, Maven)_
+
+## 2016-2018 (2 years) - DevOps Engineer - _Travian Games (Munich)_
+
+* Build a containerisation scalable infrastructure _(**Kubernetes**, DC/OS, **Docker**, Packer, Vagrant)_
 * Build a CI/CD Pipeline with one of the development team
 * Refactoring of the configuration management code base _(Puppet, Python, Git, Stash)_
 
