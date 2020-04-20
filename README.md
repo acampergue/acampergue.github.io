@@ -1,7 +1,7 @@
 ~~~~
 Aurélien Campergue
 München Neuhausen
-aurelien.campergue@gmail.com
+aurelien.campergue@protonmail.com
 ~~~~
 
 <br/>
@@ -10,35 +10,48 @@ aurelien.campergue@gmail.com
 
 <br/>
 
-### <center>Specialties: Linux, Docker, Kubernetes, Java, Maven, Ansible</center>
+### <center>Specialties: Kubernetes, Docker, Linux, Java, Maven, Ansible</center>
 
 <br/>
 
-### Skills Summary
+# Skills Summary
 
 | Domain | Skills |
 |:-----------|:------------|
 | Virtualization & Containerization |  **Docker**, **Kubernetes**, AWS, KVM, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
-| Deployment tools |  Helm, **Ansible**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Mint**, Ubuntu, Fedora, CentOS, RedHat, **Freenas**, Ipcop, PFSense, **OPNSense** |
-| Development tools | **GIT**, **Maven**, Gradle, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine |
-| Programmation languages | Java, Groovy, Python, Bash |
+| Deployment tools |  **Helm**, **Ansible**, Puppet, Preseed, Kickstart |
+| OS | **Debian**, **Mint**, Ubuntu, CentOS, RedHat, Fedora, **Freenas**, **OPNSense**, PFSense, IPCop |
+| Development tools | **Git**, **Maven**, **Gradle**, **Jenkins**, **Gitlab**, Bamboo, Sonar, Nexus, JIRA, Redmine |
+| Programmation languages | **Java**, Groovy, Python, Bash |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
-| Log management | ElasticSearch, Logstash, Fluentd, Kibana |
+| Log management | ELK (ElasticSearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
 | Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
 |  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
-| Languages | French (Mother tongue), English (Fluent), German (Average) |
+| Languages | French (Mother tongue), English (Fluent), German (good, approx C1/C2) |
+
+<div class="page-break" />
+
+# Trainings and Certifications
+
+| Date | Training | Certification |
+|:-----------|:------------|:------------|
+| 01.2020 | Cloud Native Certified Kubernetes Administrator | **CKA:** https://www.youracclaim.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8 |
+| 02.2020 | Service Mesh with Istio ||
+| 02.2020 | Certified Kubernetes Application Developer | **CKAD:** https://www.youracclaim.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e |
+| 03.2020 | Helm Deep Dive ||
+| 03.2020 | Monitoring Kubernetes With Prometheus ||
+| 03.2020 | Google Cloud Essentials ||
 
 <div class="page-break" />
 
 # Professional experience
 
-## Since <MONTH> 2018 - DevOps Engineer - _Onpex (Munich)_
+## 2018-2020 (2 years) DevOps Engineer - _Onpex (Munich)_
 
 * Migrate the Puppet deployment code base code to Ansible _(Puppet, Ansible)_
-* Build a Kubernetes cluster _(Kubernetes, Kops, EKS)_
-* Maintained automatic deployment pipelines _(Kubernetes, Helm, Gitlab)_
+* Build a Kubernetes cluster in AWS _(**Kubernetes**, Kops, **EKS**)_
+* Maintaining automatic deployment pipelines _(Kubernetes, Helm, Gitlab)_
 * Dockerize applications _(Docker, Maven)_
 
 ## 2016-2018 (2 years) - DevOps Engineer - _Travian Games (Munich)_
@@ -49,7 +62,7 @@ aurelien.campergue@gmail.com
 
 ## 2016 (7 months) - Build Engineer - _Workday (Dublin / Munich)_
 
-* Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(Ansible, **Docker**, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
+* Deployment of a CI environment using Jenkins on a Docker cluster with a centralized log management system _(**Ansible**, **Docker**, Swarm, Consul, Registrator, ElasticSearch, Fluentd, Kibana, Jenkins)_
 * Writing scripts to automate data updates between webservices _(Groovy, Bamboo, JIRA, Confluence)_
 * Partial migration from Ant _(Ant, Gradle)_
 
@@ -75,7 +88,7 @@ aurelien.campergue@gmail.com
 _Platform used by a team of 60 people_
 
 * **Continuous integration** _(Maven, Hudson / Jenkins)_
-* **Continuous deployment** _(Jenkins, Debian, Ansible, **Docker**)_
+* **Continuous deployment** _(Jenkins, **Debian**, **Ansible**, **Docker**)_
 * Collaborative Document Management _(Xwiki)_
 * Issue and Bugs tracker _(JIRA)_
 * Configuration management _(SVN, Git)_
@@ -159,7 +172,7 @@ _Training, development and administration_
 * System and network administration.
 * VBA development
 
-# Training
+# Education
 
 | Date | certificate |
 |:-----------|:------------|
@@ -169,5 +182,5 @@ _Training, development and administration_
 
 # Various
 
-* Ability to work on projects classified as secret defense
-* Hobbies/Interests: Swing dancing, Trading, Permaculture, Ericksonian Hypnosis
+* Ability to work on projects classified as secret defense in France
+* Hobbies/Interests: Swing dancing, Boxing, Trading, Permaculture, Ericksonian Hypnosis
