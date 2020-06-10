@@ -36,7 +36,7 @@ aurelien.campergue@protonmail.com
 
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
-| 01.2020 | Cloud Native Certified Kubernetes Administrator | [**CKA**](https://www.youracclaim.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
+| 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.youracclaim.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
 | 02.2020 | Service Mesh with Istio ||
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.youracclaim.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
 | 03.2020 | Helm Deep Dive ||
