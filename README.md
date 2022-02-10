@@ -30,7 +30,7 @@ aurelien.campergue@protonmail.com
 |  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | French (Mother tongue), English (Fluent), German (good, approx C1/C2) |
 
-<div class="page-break" />
+<div style="page-break-after: always;"></div>
 
 # Trainings and Certifications
 
@@ -43,7 +43,7 @@ aurelien.campergue@protonmail.com
 | 03.2020 | Monitoring Kubernetes With Prometheus ||
 | 03.2020 | Google Cloud Essentials ||
 
-<div class="page-break" />
+<div style="page-break-after: always;"></div>
 
 # Professional experience
 
@@ -138,7 +138,7 @@ _1 development mission, 2 system administration missions_
 
 _Java JEE 1.6, AspectJ, Spring 2.5, GWT GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, ​​Test Driven Development, Pair Programming, Iterative schedule_
 
-<div class="page-break" />
+<div style="page-break-after: always;"></div>
 
 ## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (Paris)_
 
