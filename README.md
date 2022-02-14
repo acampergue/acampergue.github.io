@@ -6,7 +6,7 @@ aurelien.campergue@protonmail.com
 
 <br/>
 
-# <center>DevOps Engineer</center>
+# <center>Senior SRE / DevOps Engineer</center>
 
 <br/>
 
@@ -18,17 +18,17 @@ aurelien.campergue@protonmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **Kubernetes**, AWS, KVM, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
+| Virtualization & Containerization |  **Docker**, **Kubernetes**, Openshift, AWS, KVM, **LXD**, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
 | Deployment tools |  **Helm**, **Ansible**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Mint**, Ubuntu, CentOS, RedHat, Fedora, **Freenas**, **OPNSense**, PFSense, IPCop |
-| Development tools | **Git**, **Maven**, **Gradle**, **Jenkins**, **Gitlab**, Bamboo, Sonar, Nexus, JIRA, Redmine |
-| Programmation languages | **Java**, Groovy, Python, Bash |
+| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Archlinux, CentOS, RedHat, Fedora, **OPNSense**, **Truenas** (ex Freenas), PFSense, IPCop |
+| CI/CD | **Gitlab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine, SVN, Git |
+| Programmation languages | **Java**, Groovy, **Python**, **Bash** |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
 | Log management | ELK (ElasticSearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
 | Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
 |  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
-| Languages | French (Mother tongue), English (Fluent), German (good, approx C1/C2) |
+| Languages | French (mother tongue), English (fluent), German (very good) |
 
 <div style="page-break-after: always;"></div>
 
@@ -36,6 +36,7 @@ aurelien.campergue@protonmail.com
 
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
+| 02.2022 | Linux Certified Systems Administrator | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
 | 01.2021 | Linux Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
 | 03.2020 | Google Cloud Essentials ||
 | 03.2020 | Monitoring Kubernetes With Prometheus ||
@@ -48,7 +49,14 @@ aurelien.campergue@protonmail.com
 
 # Professional experience
 
-## 2018-2020 (2 years) DevOps Engineer - _Onpex (Munich)_
+## 2020-today Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
+
+* Evolution of the Gitlab Pipelines used to build and deploy glass fibre deployment related softwares at Deutsch Telekom _(Gitlab, Bash, Python)_
+* Migration of the deployment helm charts from Openshift specific objects (DeploymentConfig, ImageStream) to Kubernetes Vanilla Deployments
+* Development of a Docker dependency analysis tool triggering able to trigger builds recursively _(Python, Gitlab API)_
+* TODO (Helm, helmfile, ArgoCD, Gitlab Migration)
+
+## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
 
 * Migrate the Puppet deployment code base code to Ansible _(Puppet, Ansible)_
 * Build a Kubernetes cluster in AWS _(**Kubernetes**, Kops, **EKS**)_
