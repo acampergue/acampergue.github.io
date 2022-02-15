@@ -4,11 +4,7 @@ München Neuhausen
 aurelien.campergue@protonmail.com
 ~~~~
 
-<br/>
-
 # <center>Senior SRE / DevOps Engineer</center>
-
-<br/>
 
 ### <center>Specialties: Kubernetes, Docker, Linux, Java, Maven, Ansible</center>
 
@@ -18,50 +14,42 @@ aurelien.campergue@protonmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Docker**, **Kubernetes**, Openshift, AWS, KVM, **LXD**, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
-| Deployment tools |  **Helm**, **Ansible**, Puppet, Preseed, Kickstart |
+| Virtualization & Containerization |  **Kubernetes**, Openshift, **Docker**, AWS, KVM, **LXD**, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
+| GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
 | OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Archlinux, CentOS, RedHat, Fedora, **OPNSense**, **Truenas** (ex Freenas), PFSense, IPCop |
 | CI/CD | **Gitlab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine, SVN, Git |
 | Programmation languages | **Java**, Groovy, **Python**, **Bash** |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
-| Log management | ELK (ElasticSearch, Logstash, Kibana), Fluentd |
+| Log management | **ELK** (ElasticSearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
 | Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
 |  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
-| Languages | French (mother tongue), English (fluent), German (very good) |
+| Languages | **French** (mother tongue), **English** (fluent), **German** (fluent) |
 
-<div style="page-break-after: always;"></div>
-
-# Trainings and Certifications
+# Certifications
 
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
 | 02.2022 | Linux Certified Systems Administrator | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
 | 01.2021 | Linux Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
-| 03.2020 | Google Cloud Essentials ||
-| 03.2020 | Monitoring Kubernetes With Prometheus ||
-| 03.2020 | Helm Deep Dive ||
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.credly.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
-| 02.2020 | Service Mesh with Istio ||
 | 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.credly.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
-
-<div style="page-break-after: always;"></div>
 
 # Professional experience
 
 ## 2020-today Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
-* Evolution of the Gitlab Pipelines used to build and deploy glass fibre deployment related softwares at Deutsch Telekom _(Gitlab, Bash, Python)_
-* Migration of the deployment helm charts from Openshift specific objects (DeploymentConfig, ImageStream) to Kubernetes Vanilla Deployments
-* Development of a Docker dependency analysis tool triggering able to trigger builds recursively _(Python, Gitlab API)_
-* TODO (Helm, helmfile, ArgoCD, Gitlab Migration)
+* Evolution of the Gitlab Pipelines used to build and deploy glass fibre deployment related softwares on Openshift at Deutsch Telekom _(Openshift, **Gitlab**, **Bash**, **Python**)_
+* Migration of the deployment helm charts from Openshift specific objects (DeploymentConfig, ImageStream) to Kubernetes Vanilla Deployments _(**Openshift**, **Kubernetes**)_
+* Development of a Docker dependency analysis tool allowing to trigger builds recursively _(**Python**, Gitlab API)_
+* TODO (**Helm**, helmfile, **ArgoCD**, Gitlab Migration)
 
 ## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
 
-* Migrate the Puppet deployment code base code to Ansible _(Puppet, Ansible)_
-* Build a Kubernetes cluster in AWS _(**Kubernetes**, Kops, **EKS**)_
-* Maintaining automatic deployment pipelines _(Kubernetes, Helm, Gitlab)_
-* Dockerize applications _(Docker, Maven)_
+* Migrate the Puppet deployment code base code to Ansible (Full rewrite) _(**Ansible**, Puppet)_
+* Build and Maintain a Kubernetes cluster in AWS _(**Kubernetes**, Kops, **EKS**)_
+* Maintaining automatic deployment pipelines _(Kubernetes, **Helm**, Gitlab)_
+* Dockerize applications _(Docker, **Maven**)_
 
 ## 2016-2018 (2 years) - DevOps Engineer - _Travian Games (Munich)_
 
@@ -79,44 +67,38 @@ aurelien.campergue@protonmail.com
 
 ### Software development park management
 
-* Creation of masters for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
-* Implementation of a mass cloning infrastructure based on  _(Clonezilla)_ to provision pre-configured developer computers on the fly
-* Automated park Inventory _(OCS Inventory NG and GLPI)_
+* Creation of **masters** for development computers (pre-equipped and pre-configured); _Ubuntu (10.04, 11.04, 12.04, 13.04); Mint (14,15); Debian (6.0, 7.0, 8.0)_
+* Implementation of a **mass cloning** infrastructure based on  **Clonezilla** to provision pre-configured developer computers on the fly
+* Automated park Inventory _(**OCS Inventory** NG and GLPI)_
 
 ### Packaging, integration and industrialization of deployments
 
-* Automating deployment of hypervisors _(Preseed, Puppet, Ansible)_
-* Automating deployment of virtual machines _(Shell Scripts, then Python specific development)_
-* Building Maven projects dedicated to native packaging of components in the Debian format _(Jdeb)_
-* Setting up a continuous deployment process including a platform specific settings _(Ansible)_
-* Setting up a log management architecture _(ELK: ElasticSearch, Logstash, Kibana)_
+* Automating deployment of hypervisors _(**Preseed**, Puppet, Ansible)_
+* Automating deployment of virtual machines _(Shell Scripts, then **Python** specific development)_
+* Building native **debian packages** from the **Maven** projects _(Jdeb)_
+* Setting up a continuous deployment process including a platform specific settings _(**Ansible**)_
+* Setting up a log management architecture _(**ELK**: ElasticSearch, Logstash, Kibana)_
 * Implementing of a performance monitoring architecture _(Munin)_
 
 ### Implementation, deployment and maintenance of a software development platform:
 
 _Platform used by a team of 60 people_
 
-* **Continuous integration** _(Maven, Hudson / Jenkins)_
-* **Continuous deployment** _(Jenkins, **Debian**, **Ansible**, **Docker**)_
-* Collaborative Document Management _(Xwiki)_
-* Issue and Bugs tracker _(JIRA)_
-* Configuration management _(SVN, Git)_
-* Qualimetry: Sonar, Squale _(PMD, FindBugs, Checkstyle, Metrics)_
-* Binary deposit management _(Nexus)_
-* Centralized authentication _(OpenLDAP)_
-* Security and Network _(PFSense)_
-* Highly available unified access portal for previous web services (haproxy, apache httpd)
+* Continuous integration _(**Maven**, **Jenkins**, Nexus, Sonar, Squale)_
+* Continuous deployment _(Jenkins, **Debian**, **Ansible**, **Docker**)_
+* Collaborative Work _(JIRA, SVN, Git, Xwiki, OpenLDAP)_
+* Security and Network _(**PFSense**, HAProxy)_
 
 ### Integration and testing platform:
 
-* Installation and configuration of 40 hypervisors _(VMWare ESXi/vSphere for more than 2 years, KVM for 2 years, partial migration to **Docker** during the last year)_
-* Managing integration and test platforms _(about 800VMs 20 platforms, 40 servers per platform)_
-* Daily deployment of whole platforms from OS to application softwares _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
+* Installation and configuration of 40 hypervisors _(**VMWare** ESXi/vSphere for more than 2 years, **KVM** for 2 years, partial migration to **Docker** during the last year)_
+* Managing integration and test platforms _(about **800VMs** : 20 platforms, ~40 servers per platform)_
+* **Daily deployments** of whole platforms from OS to application softwares _(VM 40, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)_
 * Deployment of an infrastructure of acceptance tests _(Selenium Hub + ubuntu & windows nodes)_
 
 ### Referent on software integration and system integration
 
-* Implementation of the Maven architecture (Maven3, Corporate POM, BOM, automated delivery projects, archetypes)
+* Design and implementation of the **Maven architecture** (Maven3, Corporate POM, BOM, automated delivery projects, archetypes)
 * Responsible for the quality of system versions (weekly releases)
 * Development and production teams Support
 
@@ -126,28 +108,25 @@ _1 development mission, 2 system administration missions_
 
 * Development of a demonstrator for RATP (french trains company) (3 months)
 * Deployment and administration of the development server (used by fifteen developers)
-* Creation of Linux masters for development laptops
-* Deployment of pre-configured development laptops
+* Creation of Linux masters for development laptops & deployment of pre-configured development laptops
 
-_Linux Ubuntu 10.04 - 64 Bit, Linux CentOS 5.5, Eclipse 3.5 JEE, Java/JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
+_Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, **Java** JEE 1.6, VMWare ESXi, vCenter, **GWT**, SmartGWT, **Hibernate**, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, **Clonezilla**_
 
 ## 2010 (2 weeks) - Quality Auditor - _Thales Services (Paris)_
 
 * Quality audit of the JEE application Gesplan
 
-_Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
+_**Java** JEE 1.6, **Spring** 2.5, Struts2, **Hibernate**, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
 ## 2010-2009 (6 months) - Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
 * Development of a public transportation management application
-* Creating a development station master
+* Creating a master of development station
 * Installing a Linux Debian development server (5.0)
 
-_Java JEE 1.6, AspectJ, Spring 2.5, GWT GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, ​​Test Driven Development, Pair Programming, Iterative schedule_
-
-<div style="page-break-after: always;"></div>
+_**Java** JEE 1.6, AspectJ, **Spring** 2.5, **GWT** 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, ​​Test Driven Development, Pair Programming, Iterative schedule_
 
 ## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (Paris)_
 
@@ -161,7 +140,7 @@ _5 development missions, 2 system administration tasks_
 * Deployment and administration of the development server (used by about 30 people spread over 3 services)
 * Automating deployments of development laptops
 
-_Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
+_**Java** J2SE version 1.6, **Maven** 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
 ## 2006-2008 (2 years) - Software Developer - _Thales EPM (Paris)_
 
@@ -171,7 +150,7 @@ _3 development missions_
 * Designing an electronic component reduction module (2 months)
 * Designing a calculation engine based on finite difference applied to thermal science (4 months)
 
-_Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_
+_**Java** J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_
 
 ## 2005-2006 (1 year) - Consultant & Trainer - _CMS Informatic (Paris)_
 
@@ -180,6 +159,7 @@ _Training, development and administration_
 * Preparation and delivery of technical training courses (English and French)
 * System and network administration.
 * VBA development
+
 
 # Education
 
@@ -191,5 +171,5 @@ _Training, development and administration_
 
 # Various
 
-* Ability to work on projects classified as secret defense in France
-* Hobbies/Interests: Swing dancing, Boxing, Trading, Permaculture, Ericksonian Hypnosis
+* Ability to work on projects classified as **secret defense** in France
+* Hobbies/Interests: **Swing dancing**, Boxing, Trading, Permaculture, Ericksonian Hypnosis
