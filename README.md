@@ -14,16 +14,16 @@ aurelien.campergue@protonmail.com
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Kubernetes**, Openshift, **Docker**, AWS, KVM, **LXD**, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
+| Virtualization & Containerization |  **Kubernetes**, Openshift, **Docker**, AWS, KVM, LXD, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
 | GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Archlinux, CentOS, RedHat, Fedora, **OPNSense**, **Truenas** (ex Freenas), PFSense, IPCop |
+| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, **Archlinux**, CentOS, RedHat, Fedora, **OPNSense** (fork PFsense), **Truenas** (ex Freenas), PFSense, IPCop |
 | CI/CD | **Gitlab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine, SVN, Git |
 | Programmation languages | **Java**, Groovy, **Python**, **Bash** |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
 | Log management | **ELK** (ElasticSearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
 | Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
-|  Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
+| Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | **French** (mother tongue), **English** (fluent), **German** (fluent) |
 
 # Certifications
@@ -41,16 +41,16 @@ aurelien.campergue@protonmail.com
 
 ### Deutsch Telekom
 
-* Setup a **Kaniko** based **Gitlab pipelines** to builds Docker images in a **Kubernetes** Cluster _(Kaniko, Kubernetes, Gitlab, Bash )_
-* Migrate a traditional **Helmfile** based deployment to a **GitOps** approach using **ArgoCD** _(Helmfile, Gitops, ArgoCD)_
-* Setup and automate a documentation Tool _(Antora, Asciidoc, Github Actions)_
+* Migrate a traditional Helmfile based deployment to a GitOps approach using ArgoCD _(**Helm**, Helmfile, **ArgoCD**, Gitops)_
+* Evolution of the Gitlab Pipelines building Docker images and deploying those images in an Openshift cluster _(Gitlab, **Bash**, **Python**, Openshift)_
+* Setup a Kaniko based Gitlab pipelines to builds Docker images in a Kubernetes cluster without Docker daemon _(**Kaniko**, **Kubernetes**, Gitlab, **Bash** )_
+* Develop a Gitlab projects dependency analyzer, allowing to trigger Docker builds based on the Docker dependency tree. _(**Python**, Gitlab API)_
+* Support developers with various build and deployment related issues.
 
-* Develop a Python tool analyzing Docker builds dependencies
-* Development of a Docker dependency analysis tool allowing to trigger builds recursively _(**Python**, Gitlab API)_
-* Refactoring and evolutions of gitlab pipelines building Docker images from different programmation languages
-* Evolution of the Gitlab Pipelines used to build and deploy glass fibre deployment related softwares on Openshift at Deutsch Telekom _(Openshift, **Gitlab**, **Bash**, **Python**)_
-* Migration of the deployment helm charts from Openshift specific objects (DeploymentConfig, ImageStream) to Kubernetes Vanilla Deployments _(**Openshift**, **Kubernetes**)_
-* TODO (**Helm**, helmfile, **ArgoCD**, Gitlab Migration)
+### Camptocamp
+
+* Setup and automate a documentation Tool _(Antora, Asciidoc, **Github Actions**)_
+* Participation to various workshops aiming at improving the CI/CD processess globally
 
 ## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
 
@@ -180,4 +180,4 @@ _Training, development and administration_
 # Various
 
 * Ability to work on projects classified as **secret defense** in France
-* Hobbies/Interests: **Swing dancing**, Boxing, Trading, Permaculture, Ericksonian Hypnosis
+* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Body language analysis, Woodwork, Permaculture
