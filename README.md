@@ -37,11 +37,19 @@ aurelien.campergue@protonmail.com
 
 # Professional experience
 
-## 2020-today Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
+## 2020-Now Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
+### Deutsch Telekom
+
+* Setup a **Kaniko** based **Gitlab pipelines** to builds Docker images in a **Kubernetes** Cluster _(Kaniko, Kubernetes, Gitlab, Bash )_
+* Migrate a traditional **Helmfile** based deployment to a **GitOps** approach using **ArgoCD** _(Helmfile, Gitops, ArgoCD)_
+* Setup and automate a documentation Tool _(Antora, Asciidoc, Github Actions)_
+
+* Develop a Python tool analyzing Docker builds dependencies
+* Development of a Docker dependency analysis tool allowing to trigger builds recursively _(**Python**, Gitlab API)_
+* Refactoring and evolutions of gitlab pipelines building Docker images from different programmation languages
 * Evolution of the Gitlab Pipelines used to build and deploy glass fibre deployment related softwares on Openshift at Deutsch Telekom _(Openshift, **Gitlab**, **Bash**, **Python**)_
 * Migration of the deployment helm charts from Openshift specific objects (DeploymentConfig, ImageStream) to Kubernetes Vanilla Deployments _(**Openshift**, **Kubernetes**)_
-* Development of a Docker dependency analysis tool allowing to trigger builds recursively _(**Python**, Gitlab API)_
 * TODO (**Helm**, helmfile, **ArgoCD**, Gitlab Migration)
 
 ## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
