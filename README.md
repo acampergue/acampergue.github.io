@@ -1,6 +1,6 @@
 ~~~~
 Aurélien Campergue
-München Neuhausen
+München Obermenzing
 aurelien.campergue@protonmail.com
 ~~~~
 
@@ -39,7 +39,7 @@ aurelien.campergue@protonmail.com
 
 ## 2020-Now Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
-### Deutsch Telekom
+### Deutsche Telekom
 
 * Migrate a traditional Helmfile based deployment to a GitOps approach using ArgoCD _(**Helm**, Helmfile, **ArgoCD**, Gitops)_
 * Evolution of the Gitlab Pipelines building Docker images and deploying those images in an Openshift cluster _(Gitlab, **Bash**, **Python**, Openshift)_
