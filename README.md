@@ -1,7 +1,7 @@
 ~~~~
 Aurélien Campergue
 München Obermenzing
-aurelien.campergue@protonmail.com
+aurelien.campergue.pro@pm.me
 ~~~~
 
 # <center>Senior SRE / DevOps Engineer</center>
