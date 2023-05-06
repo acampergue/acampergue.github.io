@@ -55,7 +55,6 @@ aurelien.campergue.pro@pm.me
 ## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
 
 * Migrated the Puppet deployment codebase to Ansible through a full rewrite (Ansible, Puppet).
-* Migrated the Puppet deployment codebase to Ansible through a full rewrite (Ansible, Puppet).
 * Maintained automatic deployment pipelines (Kubernetes, Helm, GitLab).
 * Dockerized applications (Docker, Maven).
 
@@ -114,7 +113,7 @@ _Managed a software development platform used by a team of 60 people_
 
 _1 development mission, 2 system administration missions_
 
-* Developed a demonstrator for RATP (French train company), showcasing innovative solutions (3 months)
+* Developed a demonstrator for RATP (French train company), showcasing innovative solutions
 * Managed deployment and administration of the development server, supporting a team of fifteen developers
 * Created Linux masters for development laptops and streamlined the deployment of pre-configured development environments.
 
@@ -140,11 +139,11 @@ _Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, S
 
 _5 development missions, 2 system administration tasks_
 
-* Designed and developed a simulation framework for radar systems detecting missiles. (3 months)
-* Created a persistence framework for efficient storage and retrieval of simulation data. (3 months)
-* Collaborated on the development of an OpenGL-based windowing API to visually display the simulation in real-time. (2 months)
-* Implemented enhancements and modifications to the multi-language code generation tool named Comet. (2 months)
-* Developed a model-to-model (M2M) transformation tool enabling seamless communication between radars using different protocols, by generating necessary stubs to bridge the communication gap (2 months)
+* Designed and developed a simulation framework for radar systems detecting missiles.
+* Created a persistence framework for efficient storage and retrieval of simulation data.
+* Collaborated on the development of an OpenGL-based windowing API to visually display the simulation in real-time.
+* Implemented enhancements and modifications to the multi-language code generation tool named Comet.
+* Developed a model-to-model (M2M) transformation tool enabling seamless communication between radars using different protocols, by generating necessary stubs to bridge the communication gap.
 * Managed deployment and administration of a development server, supporting a team of approximately 30 users across three departments
 * Automated the deployment process for development laptops, streamlining setup and configuration
 
@@ -154,9 +153,9 @@ _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Pat
 
 _3 development missions_
 
-* Designed and implemented a thermal data export engine specifically for electronic map thermal simulation software (18 months)
-* Developed an engine utilizing population-based genetic algorithms to generate thermal models with simplified geometry (2 months)
-* Created a simplified thermal simulation engine enabling faster pre-simulations compared to professional software (4 months)
+* Designed and implemented a thermal data export engine specifically for electronic map thermal simulation software
+* Developed an engine utilizing population-based genetic algorithms to generate thermal models with simplified geometry
+* Created a simplified thermal simulation engine enabling faster pre-simulations compared to professional software
 
 _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
