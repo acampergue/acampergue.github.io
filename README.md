@@ -4,9 +4,9 @@ München Obermenzing
 aurelien.campergue.pro@pm.me
 ~~~~
 
-# <center>Senior SRE / DevOps Engineer</center>
+# <center>Senior DevOps Engineer</center>
 
-### <center>Specialties: Kubernetes, Docker, Linux, Java, Maven, Ansible</center>
+### <center>Specialties: CI/CD, Gitlab, Kubernetes, Docker, Java, Maven, Linux, Ansible</center>
 
 <br/>
 
