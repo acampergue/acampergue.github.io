@@ -6,7 +6,7 @@ aurelien.campergue.pro@pm.me
 
 # <center>Senior DevOps Engineer</center>
 
-### <center>Specialties: CI/CD, Gitlab, Kubernetes, Docker, Java, Maven, Linux, Ansible</center>
+### <center>Specialties: CI/CD, Gitlab, Kubernetes, Maven, Java, Linux, Docker, Ansible</center>
 
 <br/>
 
