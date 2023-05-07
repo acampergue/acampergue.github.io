@@ -119,7 +119,7 @@ _1 development mission, 2 system administration missions_
 
 _Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Clonezilla_
 
-## 2010 (2 weeks) - Quality Auditor - _Thales Services (Paris)_
+## 2010 - Quality Auditor - _Thales Services (Paris)_
 
 * Conducted a comprehensive quality audit of Gesplan, a Java Enterprise Edition (JEE) application.
 
@@ -133,7 +133,7 @@ _1 development mission, 2 system administration missions_
 * Established a master configuration for development stations, ensuring consistency and efficiency.
 * Installed a Linux Debian development server (version 5.0) for enhanced software development processes.
 
-_Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, ​​Test Driven Development, Pair Programming, Iterative schedule_
+_Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative schedule_
 
 ## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (Paris)_
 
@@ -179,4 +179,4 @@ _Training, development and administration_
 # Various
 
 * Experience working on classified defense projects in France
-* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Body language analysis, Woodwork, Permaculture
+* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Woodwork, Permaculture
