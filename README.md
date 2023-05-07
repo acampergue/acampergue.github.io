@@ -51,6 +51,7 @@ aurelien.campergue.pro@pm.me
 
 * Set up and automated a documentation tool using Antora, Asciidoc, and Github Actions.
 * Participated in various workshops aimed at improving CI/CD processes globally.
+* Participated in the creation of training materials.
 
 ## 2018-2020 - Senior DevOps Engineer - _Onpex (Munich)_
 
@@ -119,12 +120,6 @@ _1 development mission, 2 system administration missions_
 
 _Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Clonezilla_
 
-## 2010 - Quality Auditor - _Thales Services (Paris)_
-
-* Conducted a comprehensive quality audit of Gesplan, a Java Enterprise Edition (JEE) application.
-
-_Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
-
 ## 2010-2009 - Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
@@ -163,7 +158,7 @@ _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
 _Training, development and administration_
 
-* Prepared and delivered technical training courses in English and French, focusing primarily on Linux system administration, and software development
+* Delivered technical training courses, focusing primarily on Linux system administration, and software development
 * Oversaw the management of company servers and network infrastructure
 * Created tailored software solutions and advanced macros in MS Office using VBA
 
