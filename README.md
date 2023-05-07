@@ -37,7 +37,7 @@ aurelien.campergue.pro@pm.me
 
 # Professional experience
 
-## 2020-Now Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
+## 2020-Now - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
 ### Deutsche Telekom
 
@@ -52,25 +52,25 @@ aurelien.campergue.pro@pm.me
 * Set up and automated a documentation tool using Antora, Asciidoc, and Github Actions.
 * Participated in various workshops aimed at improving CI/CD processes globally.
 
-## 2018-2020 (2 years) Senior DevOps Engineer - _Onpex (Munich)_
+## 2018-2020 - Senior DevOps Engineer - _Onpex (Munich)_
 
 * Migrated the Puppet deployment codebase to Ansible through a full rewrite (Ansible, Puppet).
 * Maintained automatic deployment pipelines (Kubernetes, Helm, GitLab).
 * Dockerized applications (Docker, Maven).
 
-## 2016-2018 (2 years) - DevOps Engineer - _Travian Games (Munich)_
+## 2016-2018 - DevOps Engineer - _Travian Games (Munich)_
 
 * Built a scalable containerization infrastructure using Kubernetes, DC/OS, Docker, Packer, and Vagrant.
 * Collaborated with a development team to establish a CI/CD pipeline.
 * Refactored the configuration management codebase (Puppet, Python, Git, Stash).
 
-## 2016 (7 months) - Build Engineer - _Workday (Dublin / Munich)_
+## 2016 - Build Engineer - _Workday (Dublin / Munich)_
 
 * Deployed a CI environment using Jenkins on a Docker cluster with centralized log management (Ansible, Docker, Swarm, Consul, Registrator, Elasticsearch, Fluentd, Kibana, Jenkins).
 * Wrote scripts to automate data updates between webservices (Groovy, Bamboo, JIRA, Confluence).
 * Conducted a partial migration from Ant to Gradle.
 
-## 2016-2010 (5 years) - DevOps Engineer - _Thales Services (Paris)_
+## 2016-2010 - DevOps Engineer - _Thales Services (Paris)_
 
 ### Software development park management
 
@@ -109,7 +109,7 @@ _Managed a software development platform used by a team of 60 people_
 * Ensured the quality of system versions with weekly releases.
 * Provided support to development and production teams.
 
-## 2010 (3 months) - Devops Engineer & Software Developer - _Thales Services (Paris)_
+## 2010 - Devops Engineer & Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -125,7 +125,7 @@ _Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, 
 
 _Java JEE 1.6, Spring 2.5, Struts2, Hibernate, Eclipse 3.5 JEE, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma_
 
-## 2010-2009 (6 months) - Software Developer - _Thales Services (Paris)_
+## 2010-2009 - Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -135,7 +135,7 @@ _1 development mission, 2 system administration missions_
 
 _Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative schedule_
 
-## 2008-2009 (1 year) - Software Developer - _Thales Air Systems (Paris)_
+## 2008-2009 - Software Developer - _Thales Air Systems (Paris)_
 
 _5 development missions, 2 system administration tasks_
 
@@ -149,7 +149,7 @@ _5 development missions, 2 system administration tasks_
 
 _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
-## 2006-2008 (2 years) - Software Developer - _Thales EPM (Paris)_
+## 2006-2008 - Software Developer - _Thales EPM (Paris)_
 
 _3 development missions_
 
@@ -159,7 +159,7 @@ _3 development missions_
 
 _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
-## 2005-2006 (1 year) - Consultant & Trainer - _CMS Informatic (Paris)_
+## 2005-2006 - Consultant & Trainer - _CMS Informatic (Paris)_
 
 _Training, development and administration_
 
