@@ -170,11 +170,11 @@ _Training, development and administration_
 
 # Education
 
-| Date | certificate | place |
-|:-----------|:------------|:------------|
-| 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization | IFIPS, Orsay |
-| 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  | Rueil Malmaison |
-| 2001-2002 |  Bachelor's degree - Electronic specialization (honors) | Carrières sur Seine |
+| Date | certificate |
+|:-----------|:------------|
+| 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization |
+| 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
+| 2001-2002 |  Bachelor's degree - Electronic specialization (honors) |
 
 # Various
 
