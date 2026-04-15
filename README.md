@@ -37,6 +37,12 @@ aurelien.campergue.pro@pm.me
 
 # Professional experience
 
+## 2024-Now - Senior DevOps Engineer - GIPmbH (Munich)
+
+* Installed and configured a GitLab server within a Kubernetes cluster to replace a legacy Jenkins setup.
+* Designed and implemented a Quarkus Java project template for building multimodule Quarkus applications with Gradle, including deployment of smoke tests and test environments (Kotlin, Quarkus, Kaniko, Helm, Helmfile).
+* Improved and optimized numerous legacy Bash scripts.
+
 ## 2020-Now - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
 ### Deutsche Telekom
@@ -124,7 +130,7 @@ _Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, 
 
 _1 development mission, 2 system administration missions_
 
-* Designed and developed a comprehensive public transportation management application.
+* Designed and developed a comprehensive public transportation management application POUR DANEMARK
 * Established a master configuration for development stations, ensuring consistency and efficiency.
 * Installed a Linux Debian development server (version 5.0) for enhanced software development processes.
 
@@ -142,36 +148,35 @@ _5 development missions, 2 system administration tasks_
 * Managed deployment and administration of a development server, supporting a team of approximately 30 users across three departments
 * Automated the deployment process for development laptops, streamlining setup and configuration
 
-_Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
+_**Java** J2SE version 1.6, **Maven** 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
 ## 2006-2008 - Software Developer - _Thales EPM (Paris)_
 
 _3 development missions_
 
-* Designed and implemented a thermal data export engine specifically for electronic map thermal simulation software
-* Developed an engine utilizing population-based genetic algorithms to generate thermal models with simplified geometry
-* Created a simplified thermal simulation engine enabling faster pre-simulations compared to professional software
+* Designed a thermal data export engine for thermal simulation software.
+* Created a genetic algorithm-based thermal modeling engine.
+* Developed a simplified thermal simulation engine for rapid pre-simulations 
 
-_Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
+_**Java** J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
 ## 2005-2006 - Consultant & Trainer - _CMS Informatic (Paris)_
 
 _Training, development and administration_
 
-* Delivered technical training courses, focusing primarily on Linux system administration, and software development
-* Oversaw the management of company servers and network infrastructure
-* Created tailored software solutions and advanced macros in MS Office using VBA
-
+* Delivered Linux system administration and software development training courses.
+* Managed servers and network infrastructure for the company.
+* Developed advanced macros and custom software solutions in MS Office using VBA.
 
 # Education
 
-| Date | certificate |
-|:-----------|:------------|
+| Date       | Certificate                                                             |
+|:-----------|:------------------------------------------------------------------------|
 | 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization |
-| 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
+| 2002-2003 |  CPGE TSI (Preparatory Classes for Engineering) - Electronics and Mechanics specialization |
 | 2001-2002 |  Bachelor's degree - Electronic specialization (honors) |
 
 # Various
 
-* Experience working on classified defense projects in France
-* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Woodwork, Permaculture
+* Experience with classified defense projects in France.
+* Hobbies/Interests: Swing dancing, Trading, Hypnosis.
