@@ -34,6 +34,8 @@ Languages: French (native), English (fluent), German (fluent)
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.credly.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
 | 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.credly.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
 
+<div style="page-break-after: always;"></div>
+
 # Professional experience
 
 ## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Frankfurt)_
@@ -122,6 +124,8 @@ _Managed a software development platform used by a team of 60 people_
 * Ensured the quality of system versions with weekly releases.
 * Provided support to development and production teams.
 
+<div style="page-break-after: always;"></div>
+
 ## 2010 - DevOps Engineer & Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
@@ -171,7 +175,6 @@ _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 _Training, development and administration_
 
 * Delivered technical training courses focused primarily on Linux system administration and software development.
-* Oversaw the management of company servers and network infrastructure.
 * Created tailored software solutions and advanced macros in MS Office using VBA.
 
 
