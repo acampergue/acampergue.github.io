@@ -10,7 +10,9 @@ aurelien.campergue.pro@pm.me
 
 <br/>
 
-Senior Platform / DevOps Engineer with 18+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments in defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, GitOps, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified. Trilingual in French, English, and German, based in Munich.
+Senior Platform / DevOps Engineer with 20+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments in defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, GitOps, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified.
+
+Languages: French (native), English (fluent), German (fluent)
 
 # Skills Summary
 
@@ -22,14 +24,12 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 | Operating systems | **Debian**, **Ubuntu**, Red Hat, CentOS, Fedora, Arch Linux, OPNsense, TrueNAS |
 | Programming languages | **Java**, **Python**, **Bash**, Groovy |
 | Application stack | HAProxy, NGINX, Apache HTTP Server, JBoss, Tomcat, Redis, Cassandra, Spring, SLF4J, Logback, JUnit, Mockito, JaCoCo |
-| Log management | ELK (Elasticsearch, Logstash, Kibana), Fluentd |
-| Languages | French (native), English (fluent), German (fluent) |
 
 # Certifications
 
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
-| 02.2022 | Linux Certified Systems Administrator | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
+| 02.2022 | Linux Foundation Certified Engineer | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
 | 01.2021 | Linux Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.credly.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
 | 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.credly.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
@@ -183,7 +183,7 @@ _Training, development and administration_
 | 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
 | 2001-2002 |  Bachelor's degree - Electronic specialization (honors) |
 
-# Various
+# Additional Information
 
 * Experience working on classified defense projects in France.
-* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Woodwork, Permaculture
+* Swing dancing teacher in Munich.
