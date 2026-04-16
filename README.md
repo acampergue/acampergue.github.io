@@ -19,7 +19,7 @@ Languages: French (native), English (fluent), German (fluent)
 | Domain | Skills |
 |:-----------|:------------|
 | Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab** |
-| Build & Delivery | **Helm**, **ArgoCD**, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
+| Build & Delivery | **Helm**, ArgoCD, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
 | Infrastructure automation | **Ansible**, Terraform, Puppet |
 | Platforms & Infrastructure | OpenShift, AWS, VMware, VMware VCD, KVM, LXD/LXC, Packer |
 | Operating systems | **Debian**, **Ubuntu**, Red Hat, Arch Linux, OPNsense |
