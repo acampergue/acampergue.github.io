@@ -10,6 +10,8 @@ aurelien.campergue.pro@pm.me
 
 <br/>
 
+Senior Platform / DevOps Engineer with 18+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments. Specialized in GitLab, Kubernetes, Docker, Helm, GitOps, and infrastructure automation, with hands-on experience from Linux systems engineering to modern platform engineering. CKA, CKAD, LFCS, and LFCE certified. Trilingual in French, English, and German, based in Munich.
+
 # Skills Summary
 
 | Domain | Skills |
