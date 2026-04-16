@@ -68,6 +68,7 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 ## 2018-2020 - Senior DevOps Engineer - _Onpex (Munich)_
 
 * Rewrote the Puppet deployment codebase in Ansible, simplifying ongoing maintenance (Ansible, Puppet).
+* Built and maintained a Kubernetes cluster in AWS (Kubernetes, Kops, EKS).
 * Maintained automated deployment pipelines built on Kubernetes, Helm, and GitLab.
 * Containerized applications with Docker and Maven.
 
