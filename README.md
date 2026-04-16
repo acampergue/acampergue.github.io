@@ -55,6 +55,7 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 
 * Modernized deployments by moving a traditional Helmfile-based setup to a GitOps model with ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
 * Improved GitLab pipelines for building Docker images and deploying them to an OpenShift cluster (GitLab, Bash, Python, OpenShift).
+* Migrated deployment Helm charts from OpenShift-specific resources (DeploymentConfig, ImageStream) to vanilla Kubernetes deployments.
 * Enabled daemonless container image builds in Kubernetes with Kaniko-based GitLab pipelines (Kaniko, Kubernetes, GitLab, Bash).
 * Built a GitLab project dependency analyzer to trigger Docker builds from the Docker dependency tree (Python, GitLab API).
 * Supported developers on build and deployment issues.
