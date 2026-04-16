@@ -22,7 +22,7 @@ Languages: French (native), English (fluent), German (fluent)
 | Build & Delivery | **Helm**, **ArgoCD**, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
 | Infrastructure automation | **Ansible**, Terraform, Puppet |
 | Platforms & Infrastructure | OpenShift, AWS, VMware, VMware VCD, KVM, LXD/LXC, Packer |
-| Operating systems | **Debian**, **Ubuntu**, Red Hat, CentOS, Fedora, Arch Linux, OPNsense, TrueNAS |
+| Operating systems | **Debian**, **Ubuntu**, Red Hat, Arch Linux, OPNsense |
 | Programming languages | **Java**, **Python**, **Bash**, Groovy |
 
 # Certifications
