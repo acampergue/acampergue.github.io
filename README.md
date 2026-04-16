@@ -41,7 +41,7 @@ aurelien.campergue.pro@pm.me
 
 * Installed and operated a GitLab instance on the company Kubernetes infrastructure.
 * Designed and maintained fully modular GitLab CI/CD pipelines for Java applications built with Maven and Gradle, including container builds with Buildah and Kaniko, Helm chart packaging, quality gates (SonarQube, Helm smoke tests, Dive), and automated review environment deployments to Kubernetes using GitLab Review Apps.
-* Used Claude and Codex to document and harden a fragile, business-critical release process, reducing a major single point of failure by capturing long-held tacit knowledge and automating the Jira-driven biweekly workflow without breaking compatibility with established internal processes.
+* Used Claude to document and harden a fragile, business-critical release process, reducing a major single point of failure by capturing long-held tacit knowledge and automating the Jira-driven biweekly workflow without breaking compatibility with established internal processes.
 * Reworked base container images from Ubuntu to Alpaquita to reduce image size and attack surface while retaining glibc compatibility.
 * Installed and configured Renovate Bot in GitLab to keep project dependencies up to date automatically.
 * Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes in GitLab instead of maintaining them manually in `README.adoc`.
