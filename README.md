@@ -16,16 +16,13 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Kubernetes**, OpenShift, **Docker**, AWS, KVM, LXD, LXC, Swarm, DC/OS, Packer, Vagrant, VMware |
-| GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Arch Linux, CentOS, Red Hat, Fedora, **OPNsense** (fork of pfSense), **TrueNAS** (formerly FreeNAS), pfSense, IPCop |
-| CI/CD | **GitLab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, Jira, Redmine, SVN, Git |
-| Programming languages | **Java**, Groovy, **Python**, **Bash** |
-| Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
+| Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab**, **Ansible**, **Helm**, **Maven**, **Java** |
+| Platforms & Containers | OpenShift, VMware, VMware VCD, KVM, AWS, LXD/LXC, Packer |
+| Deployment & Automation | **ArgoCD**, Helmfile, Puppet, Terraform, **Gradle**, **Git**, SonarQube, Nexus |
+| Operating systems | **Debian**, **Ubuntu**, Red Hat, CentOS, Fedora, Arch Linux, OPNsense, TrueNAS |
+| Programming languages | **Java**, **Python**, **Bash**, Groovy |
+| Application stack | HAProxy, NGINX, Apache HTTP Server, JBoss, Tomcat, Redis, Cassandra, Spring, SLF4J, Logback, JUnit, Mockito, JaCoCo |
 | Log management | ELK (Elasticsearch, Logstash, Kibana), Fluentd |
-| Testing tools | Selenium, Gatling |
-| Other tools | HAProxy, XWiki, Confluence, Apache HTTP Server, NGINX, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, JUnit, JMock, Mockito, JaCoCo |
-| Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | French (native), English (fluent), German (fluent) |
 
 # Certifications
@@ -76,6 +73,7 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 ## 2016-2018 - DevOps Engineer - _Travian Games (Munich)_
 
 * Built a scalable container platform using Kubernetes, DC/OS, Docker, Packer, and Vagrant.
+* Managed cloud infrastructure based on VMware VCD, AWS, and Terraform.
 * Partnered with a development team to establish a CI/CD pipeline.
 * Refactored the configuration management codebase (Puppet, Python, Git, Stash).
 
