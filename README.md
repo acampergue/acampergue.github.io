@@ -39,47 +39,47 @@ aurelien.campergue.pro@pm.me
 
 ## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Munich)_
 
-* Built and standardized GitLab CI/CD pipelines for Java/Maven projects, enabling low-friction adoption across teams.
-* Rolled out Helm-based Kubernetes deployment patterns and improved Docker-based local and CI workflows.
-* Implemented release automation, Conventional Commits, and automatic changelog generation with git-cliff.
-* Introduced AI-assisted engineering workflows using Claude and Codex for code, documentation, and commit automation aligned with internal standards.
-* Improved repository health through Git LFS adoption and cleanup of oversized Git histories.
-* Proposed and implemented container-focused improvements spanning image optimization, security scanning, SBOM generation, and developer productivity.
-* Worked cross-team on GitLab, JIRA integration, Kubernetes deployment tooling, and process improvements.
+* Standardized GitLab CI/CD pipelines for Java/Maven projects, enabling low-friction adoption across teams.
+* Established Helm-based Kubernetes deployment patterns and streamlined Docker workflows for both local development and CI.
+* Automated releases with Conventional Commits and changelog generation using git-cliff.
+* Introduced AI-assisted engineering workflows with Claude and Codex for code, documentation, and commit automation aligned with internal standards.
+* Improved repository health by introducing Git LFS and cleaning up oversized Git histories.
+* Drove container-focused improvements across image optimization, security scanning, SBOM generation, and developer productivity.
+* Partnered across teams on GitLab, JIRA integration, Kubernetes deployment tooling, and engineering process improvements.
 
 ## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
 ### Deutsche Telekom
 
-* Transformed a traditional Helmfile-based deployment into a GitOps approach using ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
-* Enhanced GitLab pipelines for building Docker images and deploying them in an Openshift cluster (GitLab, Bash, Python, Openshift).
-* Implemented Kaniko-based GitLab pipelines to build Docker images in a Kubernetes cluster without Docker daemon (Kaniko, Kubernetes, GitLab, Bash).
-* Developed a GitLab project dependency analyzer to trigger Docker builds based on the Docker dependency tree (Python, GitLab API).
-* Provided support to developers for build and deployment-related issues.
+* Modernized deployments by moving a traditional Helmfile-based setup to a GitOps model with ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
+* Improved GitLab pipelines for building Docker images and deploying them to an Openshift cluster (GitLab, Bash, Python, Openshift).
+* Enabled daemonless container image builds in Kubernetes with Kaniko-based GitLab pipelines (Kaniko, Kubernetes, GitLab, Bash).
+* Built a GitLab project dependency analyzer to trigger Docker builds from the Docker dependency tree (Python, GitLab API).
+* Supported developers on build and deployment issues.
 
 ### Camptocamp
 
-* Set up and automated a documentation tool using Antora, Asciidoc, and Github Actions.
-* Participated in various workshops aimed at improving CI/CD processes globally.
-* Participated in the creation of training materials.
+* Built and automated a documentation platform using Antora, Asciidoc, and Github Actions.
+* Contributed to workshops focused on improving CI/CD practices across the organization.
+* Helped create training materials.
 
 ## 2018-2020 - Senior DevOps Engineer - _Onpex (Munich)_
 
-* Migrated the Puppet deployment codebase to Ansible through a full rewrite (Ansible, Puppet).
-* Maintained automatic deployment pipelines (Kubernetes, Helm, GitLab).
-* Dockerized applications (Docker, Maven).
+* Rewrote the Puppet deployment codebase in Ansible, simplifying ongoing maintenance (Ansible, Puppet).
+* Maintained automated deployment pipelines built on Kubernetes, Helm, and GitLab.
+* Containerized applications with Docker and Maven.
 
 ## 2016-2018 - DevOps Engineer - _Travian Games (Munich)_
 
-* Built a scalable containerization infrastructure using Kubernetes, DC/OS, Docker, Packer, and Vagrant.
-* Collaborated with a development team to establish a CI/CD pipeline.
+* Built a scalable container platform using Kubernetes, DC/OS, Docker, Packer, and Vagrant.
+* Partnered with a development team to establish a CI/CD pipeline.
 * Refactored the configuration management codebase (Puppet, Python, Git, Stash).
 
 ## 2016 - Build Engineer - _Workday (Dublin / Munich)_
 
-* Deployed a CI environment using Jenkins on a Docker cluster with centralized log management (Ansible, Docker, Swarm, Consul, Registrator, Elasticsearch, Fluentd, Kibana, Jenkins).
-* Wrote scripts to automate data updates between webservices (Groovy, Bamboo, JIRA, Confluence).
-* Conducted a partial migration from Ant to Gradle.
+* Delivered a Jenkins-based CI environment on a Docker cluster with centralized log management (Ansible, Docker, Swarm, Consul, Registrator, Elasticsearch, Fluentd, Kibana, Jenkins).
+* Automated data synchronization between web services (Groovy, Bamboo, JIRA, Confluence).
+* Contributed to a partial migration from Ant to Gradle.
 
 ## 2010-2016 - DevOps Engineer - _Thales Services (Paris)_
 
