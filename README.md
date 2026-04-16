@@ -10,7 +10,7 @@ aurelien.campergue.pro@pm.me
 
 <br/>
 
-Senior Platform / DevOps Engineer with 18+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments. Specialized in GitLab, Kubernetes, Docker, Helm, GitOps, and infrastructure automation, with hands-on experience from Linux systems engineering to modern platform engineering. CKA, CKAD, LFCS, and LFCE certified. Trilingual in French, English, and German, based in Munich.
+Senior Platform / DevOps Engineer with 18+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments in defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, GitOps, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified. Trilingual in French, English, and German, based in Munich.
 
 # Skills Summary
 
@@ -39,9 +39,9 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 
 # Professional experience
 
-## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Munich)_
+## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Frankfurt)_
 
-* Installed and operated a GitLab instance on the company Kubernetes infrastructure.
+* Installed and operated a GitLab instance on the Kubernetes infrastructure supporting a payroll and HR software platform.
 * Designed and maintained fully modular GitLab CI/CD pipelines for Java applications built with Maven and Gradle, including container builds with Buildah and Kaniko, Helm chart packaging, quality gates (SonarQube, Helm smoke tests, Dive), and automated review environment deployments to Kubernetes using GitLab Review Apps.
 * Used Claude to document and harden a fragile, business-critical release process, reducing a major single point of failure by capturing long-held tacit knowledge and automating the Jira-driven biweekly workflow without breaking compatibility with established internal processes.
 * Reworked base container images from Ubuntu to Alpaquita to reduce image size and attack surface while retaining glibc compatibility.
