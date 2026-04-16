@@ -38,13 +38,13 @@ Languages: French (native), English (fluent), German (fluent)
 
 ## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Frankfurt)_
 
-* Installed and operated a GitLab instance on the Kubernetes infrastructure supporting a payroll and HR software platform.
-* Designed and maintained fully modular GitLab CI/CD pipelines for Java applications built with Maven and Gradle, including container builds with Buildah and Kaniko, Helm chart packaging, quality gates (SonarQube, Helm smoke tests, Dive), and automated review environment deployments to Kubernetes using GitLab Review Apps.
-* Used Claude to document and harden a fragile, business-critical release process, reducing a major single point of failure by capturing long-held tacit knowledge and automating the Jira-driven biweekly workflow without breaking compatibility with established internal processes.
+* Installed and operated a GitLab instance on the Kubernetes infrastructure.
+* Designed and maintained modular GitLab CI/CD pipelines for Java applications, covering builds, containerization, Helm packaging, quality gates, and automated review environment deployments to Kubernetes.
+* Leveraged artificial intelligence to document a fragile, business-critical release process and build Python and AI tooling that automated and enriched the Jira-driven biweekly workflow, reducing a major single-person dependency without disrupting established internal processes.
 * Reworked base container images from Ubuntu to Alpaquita to reduce image size and attack surface while retaining glibc compatibility.
 * Installed and configured Renovate Bot in GitLab to keep project dependencies up to date automatically.
-* Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes in GitLab instead of maintaining them manually in `README.adoc`.
-* Supported multiple teams with GitLab onboarding, migrations from Bitbucket/Jenkins to GitLab, Helm packaging, and day-to-day enablement and training.
+* Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes directly in GitLab.
+* Supported multiple teams with GitLab onboarding, migrations from Bitbucket/Jenkins to GitLab, Kubernetes and Helm packaging, and day-to-day enablement and training.
 
 ## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
