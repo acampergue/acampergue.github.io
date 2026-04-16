@@ -4,50 +4,49 @@ München Obermenzing
 aurelien.campergue.pro@pm.me
 ~~~~
 
-# <center>Senior DevOps Engineer</center>
+# <center>Senior Platform / DevOps Engineer</center>
 
-### <center>Specialties: CI/CD, GitLab, Kubernetes, Maven, Java, Linux, Docker, Ansible</center>
+### <center>Specialties: Linux, Docker, Kubernetes, GitLab, Maven, CI/CD, Infrastructure Automation</center>
 
 <br/>
 
-Senior Platform / DevOps Engineer with 18+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments in defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, GitOps, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified. Trilingual in French, English, and German, based in Munich.
+Senior Platform / DevOps Engineer with 20+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified.
+
+Languages: French (native), English (fluent), German (fluent)
 
 # Skills Summary
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Kubernetes**, OpenShift, **Docker**, AWS, KVM, LXD, LXC, Swarm, DC/OS, Packer, Vagrant, VMware |
-| GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Arch Linux, CentOS, Red Hat, Fedora, **OPNsense** (fork of pfSense), **TrueNAS** (formerly FreeNAS), pfSense, IPCop |
-| CI/CD | **GitLab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, Jira, Redmine, SVN, Git |
-| Programming languages | **Java**, Groovy, **Python**, **Bash** |
-| Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
-| Log management | ELK (Elasticsearch, Logstash, Kibana), Fluentd |
-| Testing tools | Selenium, Gatling |
-| Other tools | HAProxy, XWiki, Confluence, Apache HTTP Server, NGINX, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, JUnit, JMock, Mockito, JaCoCo |
-| Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
-| Languages | French (native), English (fluent), German (fluent) |
+| Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab** |
+| Build & Delivery | **Helm**, ArgoCD, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
+| Infrastructure automation | **Ansible**, Terraform, Puppet |
+| Platforms & Infrastructure | OpenShift, AWS, VMware, VMware VCD, KVM, LXD/LXC, Packer |
+| Operating systems | **Debian**, **Ubuntu**, Red Hat, Arch Linux, OPNsense |
+| Programming languages | **Java**, **Python**, **Bash**, Groovy |
 
 # Certifications
 
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
-| 02.2022 | Linux Certified Systems Administrator | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
-| 01.2021 | Linux Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
+| 02.2022 | Linux Foundation Certified Engineer | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
+| 01.2021 | Linux Foundation Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.credly.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
 | 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.credly.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
+
+<div style="page-break-after: always;"></div>
 
 # Professional experience
 
 ## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Frankfurt)_
 
-* Installed and operated a GitLab instance on the Kubernetes infrastructure supporting a payroll and HR software platform.
-* Designed and maintained fully modular GitLab CI/CD pipelines for Java applications built with Maven and Gradle, including container builds with Buildah and Kaniko, Helm chart packaging, quality gates (SonarQube, Helm smoke tests, Dive), and automated review environment deployments to Kubernetes using GitLab Review Apps.
-* Used Claude to document and harden a fragile, business-critical release process, reducing a major single point of failure by capturing long-held tacit knowledge and automating the Jira-driven biweekly workflow without breaking compatibility with established internal processes.
+* Installed and operated a GitLab instance on the Kubernetes infrastructure.
+* Designed and maintained modular GitLab CI/CD pipelines for Java applications, covering builds, containerization, Helm packaging, quality gates, and automated review environment deployments to Kubernetes.
+* Leveraged artificial intelligence to document a fragile, business-critical release process and build Python and AI tooling that automated and enriched the Jira-driven biweekly workflow, reducing a major single-person dependency without disrupting established internal processes.
 * Reworked base container images from Ubuntu to Alpaquita to reduce image size and attack surface while retaining glibc compatibility.
 * Installed and configured Renovate Bot in GitLab to keep project dependencies up to date automatically.
-* Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes in GitLab instead of maintaining them manually in `README.adoc`.
-* Supported multiple teams with GitLab onboarding, migrations from Bitbucket/Jenkins to GitLab, Helm packaging, and day-to-day enablement and training.
+* Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes directly in GitLab.
+* Supported multiple teams with GitLab onboarding, migrations from Bitbucket/Jenkins to GitLab, Kubernetes and Helm packaging, and day-to-day enablement and training.
 
 ## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
@@ -55,6 +54,7 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 
 * Modernized deployments by moving a traditional Helmfile-based setup to a GitOps model with ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
 * Improved GitLab pipelines for building Docker images and deploying them to an OpenShift cluster (GitLab, Bash, Python, OpenShift).
+* Migrated deployment Helm charts from OpenShift-specific resources (DeploymentConfig, ImageStream) to vanilla Kubernetes deployments.
 * Enabled daemonless container image builds in Kubernetes with Kaniko-based GitLab pipelines (Kaniko, Kubernetes, GitLab, Bash).
 * Built a GitLab project dependency analyzer to trigger Docker builds from the Docker dependency tree (Python, GitLab API).
 * Supported developers on build and deployment issues.
@@ -68,12 +68,14 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 ## 2018-2020 - Senior DevOps Engineer - _Onpex (Munich)_
 
 * Rewrote the Puppet deployment codebase in Ansible, simplifying ongoing maintenance (Ansible, Puppet).
+* Built and maintained a Kubernetes cluster in AWS (Kubernetes, Kops, EKS).
 * Maintained automated deployment pipelines built on Kubernetes, Helm, and GitLab.
 * Containerized applications with Docker and Maven.
 
 ## 2016-2018 - DevOps Engineer - _Travian Games (Munich)_
 
 * Built a scalable container platform using Kubernetes, DC/OS, Docker, Packer, and Vagrant.
+* Managed cloud infrastructure based on VMware VCD, AWS, and Terraform.
 * Partnered with a development team to establish a CI/CD pipeline.
 * Refactored the configuration management codebase (Puppet, Python, Git, Stash).
 
@@ -83,7 +85,7 @@ Senior Platform / DevOps Engineer with 18+ years of experience designing and ope
 * Automated data synchronization between web services (Groovy, Bamboo, Jira, Confluence).
 * Contributed to a partial migration from Ant to Gradle.
 
-## 2010-2016 - DevOps Engineer - _Thales Services (Paris)_
+## 2010-2016 - DevOps / Platform Engineer - _Thales Services (Paris)_
 
 ### Software development park management
 
@@ -121,6 +123,8 @@ _Managed a software development platform used by a team of 60 people_
 * Led the design and implementation of the Maven architecture, incorporating Maven 3, Corporate POM, BOM, automated delivery projects, and archetypes.
 * Ensured the quality of system versions with weekly releases.
 * Provided support to development and production teams.
+
+<div style="page-break-after: always;"></div>
 
 ## 2010 - DevOps Engineer & Software Developer - _Thales Services (Paris)_
 
@@ -171,7 +175,6 @@ _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 _Training, development and administration_
 
 * Delivered technical training courses focused primarily on Linux system administration and software development.
-* Oversaw the management of company servers and network infrastructure.
 * Created tailored software solutions and advanced macros in MS Office using VBA.
 
 
@@ -181,9 +184,9 @@ _Training, development and administration_
 |:-----------|:------------|
 | 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization, Polytech Paris-Saclay (formerly Polytech Paris-Sud / FIIFO) |
 | 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
-| 2001-2002 |  Bachelor's degree - Electronic specialization (honors) |
+| 2001-2002 |  French secondary school diploma (Baccalauréat) - Electronic specialization, graduated with highest honors |
 
-# Various
+# Additional Information
 
 * Experience working on classified defense projects in France.
-* Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Woodwork, Permaculture
+* Swing dancing teacher in Munich.
