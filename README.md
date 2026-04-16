@@ -10,7 +10,7 @@ aurelien.campergue.pro@pm.me
 
 <br/>
 
-Senior Platform / DevOps Engineer with 20+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across large-scale environments in defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, GitOps, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified.
+Senior Platform / DevOps Engineer with 20+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified.
 
 Languages: French (native), English (fluent), German (fluent)
 
@@ -30,7 +30,7 @@ Languages: French (native), English (fluent), German (fluent)
 | Date | Training | Certification |
 |:-----------|:------------|:------------|
 | 02.2022 | Linux Foundation Certified Engineer | [**LFCE**](https://www.credly.com/badges/a5ca5dae-3dbf-4778-ba45-1b389241f9b7) |
-| 01.2021 | Linux Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
+| 01.2021 | Linux Foundation Certified Systems Administrator | [**LFCS**](https://www.credly.com/badges/cd83d80a-01cb-48e4-8bc1-1952ba1895b3) |
 | 02.2020 | Certified Kubernetes Application Developer | [**CKAD**](https://www.credly.com/badges/bcb68031-0217-4273-8341-3cfe8bb7526e) |
 | 01.2020 | Certified Kubernetes Administrator | [**CKA**](https://www.credly.com/badges/b88ec8db-9094-44b1-86aa-9c523afa91b8) |
 
