@@ -18,13 +18,13 @@ aurelien.campergue.pro@pm.me
 | GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
 | OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Archlinux, CentOS, RedHat, Fedora, **OPNSense** (fork PFsense), **Truenas** (ex Freenas), PFSense, IPCop |
 | CI/CD | **Gitlab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine, SVN, Git |
-| Programmation languages | **Java**, Groovy, **Python**, **Bash** |
+| Programming languages | **Java**, Groovy, **Python**, **Bash** |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
 | Log management | ELK (ElasticSearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
 | Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
 | Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
-| Languages | French (mother tongue), English (fluent), German (fluent) |
+| Languages | French (native), English (fluent), German (fluent) |
 
 # Certifications
 
@@ -51,8 +51,8 @@ aurelien.campergue.pro@pm.me
 
 ### Deutsche Telekom
 
-* Transformed a traditional Helmfile-based deployment into a GitOps approach using ArgoCD (Helm, Helmfile, ArgoCD, GitOps)
-* Enhanced GitLab Pipelines for building Docker images and deploying them in an Openshift cluster (GitLab, Bash, Python, Openshift)
+* Transformed a traditional Helmfile-based deployment into a GitOps approach using ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
+* Enhanced GitLab pipelines for building Docker images and deploying them in an Openshift cluster (GitLab, Bash, Python, Openshift).
 * Implemented Kaniko-based GitLab pipelines to build Docker images in a Kubernetes cluster without Docker daemon (Kaniko, Kubernetes, GitLab, Bash).
 * Developed a GitLab project dependency analyzer to trigger Docker builds based on the Docker dependency tree (Python, GitLab API).
 * Provided support to developers for build and deployment-related issues.
@@ -81,15 +81,15 @@ aurelien.campergue.pro@pm.me
 * Wrote scripts to automate data updates between webservices (Groovy, Bamboo, JIRA, Confluence).
 * Conducted a partial migration from Ant to Gradle.
 
-## 2016-2010 - DevOps Engineer - _Thales Services (Paris)_
+## 2010-2016 - DevOps Engineer - _Thales Services (Paris)_
 
 ### Software development park management
 
 * Created pre-equipped and pre-configured base images for development computers, including Ubuntu (10.04, 11.04, 12.04, 13.04), Mint (14, 15), and Debian (6.0, 7.0, 8.0).
 * Implemented a mass cloning infrastructure using Clonezilla to effortlessly provision pre-configured developer computers.
-* Automated park inventory using OCS Inventory NG and GLPI
+* Automated park inventory using OCS Inventory NG and GLPI.
 
-### Packaging, integration and industrialization of deployments
+### Packaging, integration, and industrialization of deployments
 
 * Automated hypervisor deployment using Preseed, Puppet, and Ansible.
 * Streamlined virtual machine deployment using Shell Scripts and Python development.
@@ -98,25 +98,25 @@ aurelien.campergue.pro@pm.me
 * Implemented a log management architecture with ELK (ElasticSearch, Logstash, Kibana).
 * Deployed a performance monitoring architecture using Munin.
 
-### Implementation, deployment and maintenance of a software development platform:
+### Implementation, deployment, and maintenance of a software development platform
 
 _Managed a software development platform used by a team of 60 people_
 
 * Implemented continuous integration with Maven, Jenkins, Nexus, Sonar, and Squale.
 * Orchestrated continuous deployment with Jenkins, Debian, Ansible, and Docker.
-* Configured collaborative work tools, including JIRA, SVN, Git, Xwiki, and OpenLDAP
+* Configured collaborative work tools, including JIRA, SVN, Git, Xwiki, and OpenLDAP.
 * Ensured security and network stability with PFSense and HAProxy.
 
-### Integration and testing platform:
+### Integration and testing platform
 
 * Installed and configured 40 hypervisors, including VMware ESXi/vSphere, KVM, and Docker.
 * Managed integration and test platforms consisting of approximately 800 VMs across 20 platforms.
-* Conducted daily deployments of complete platforms, including OS and application software stacks (40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd)
+* Conducted daily deployments of complete platforms, including OS and application software stacks (40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd).
 * Set up an infrastructure for acceptance tests using Selenium Hub with Ubuntu and Windows nodes.
 
 ### Referent on software integration and system integration
 
-* Led the design and implementation of the Maven architecture, incorporating Maven3, Corporate POM, BOM, automated delivery projects, and archetypes
+* Led the design and implementation of the Maven architecture, incorporating Maven3, Corporate POM, BOM, automated delivery projects, and archetypes.
 * Ensured the quality of system versions with weekly releases.
 * Provided support to development and production teams.
 
@@ -124,13 +124,13 @@ _Managed a software development platform used by a team of 60 people_
 
 _1 development mission, 2 system administration missions_
 
-* Developed a demonstrator for RATP (French train company), showcasing innovative solutions
-* Managed deployment and administration of the development server, supporting a team of fifteen developers
+* Developed a demonstrator for RATP (French train company), showcasing innovative solutions.
+* Managed deployment and administration of the development server, supporting a team of fifteen developers.
 * Created Linux masters for development laptops and streamlined the deployment of pre-configured development environments.
 
 _Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Clonezilla_
 
-## 2010-2009 - Software Developer - _Thales Services (Paris)_
+## 2009-2010 - Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -149,8 +149,8 @@ _5 development missions, 2 system administration tasks_
 * Collaborated on the development of an OpenGL-based windowing API to visually display the simulation in real-time.
 * Implemented enhancements and modifications to the multi-language code generation tool named Comet.
 * Developed a model-to-model (M2M) transformation tool enabling seamless communication between radars using different protocols, by generating necessary stubs to bridge the communication gap.
-* Managed deployment and administration of a development server, supporting a team of approximately 30 users across three departments
-* Automated the deployment process for development laptops, streamlining setup and configuration
+* Managed deployment and administration of a development server, supporting a team of approximately 30 users across three departments.
+* Automated the deployment process for development laptops, streamlining setup and configuration.
 
 _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Patterns & GRASP_
 
@@ -158,9 +158,9 @@ _Java J2SE version 1.6, Maven 2 Eclipse 3.5, Subversion, Redmine, GOF Design Pat
 
 _3 development missions_
 
-* Designed and implemented a thermal data export engine specifically for electronic map thermal simulation software
-* Developed an engine utilizing population-based genetic algorithms to generate thermal models with simplified geometry
-* Created a simplified thermal simulation engine enabling faster pre-simulations compared to professional software
+* Designed and implemented a thermal data export engine specifically for electronic map thermal simulation software.
+* Developed an engine utilizing population-based genetic algorithms to generate thermal models with simplified geometry.
+* Created a simplified thermal simulation engine enabling faster pre-simulations compared to professional software.
 
 _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
@@ -168,14 +168,14 @@ _Java J2SE version 1.4 & 1.6, Eclipse 3.4 / 3.3 / 3.2_, FloTHERM & Ansys Icepak
 
 _Training, development and administration_
 
-* Delivered technical training courses, focusing primarily on Linux system administration, and software development
-* Oversaw the management of company servers and network infrastructure
-* Created tailored software solutions and advanced macros in MS Office using VBA
+* Delivered technical training courses focused primarily on Linux system administration and software development.
+* Oversaw the management of company servers and network infrastructure.
+* Created tailored software solutions and advanced macros in MS Office using VBA.
 
 
 # Education
 
-| Date | certificate |
+| Date | Certificate |
 |:-----------|:------------|
 | 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization |
 | 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
@@ -183,5 +183,5 @@ _Training, development and administration_
 
 # Various
 
-* Experience working on classified defense projects in France
+* Experience working on classified defense projects in France.
 * Hobbies/Interests: **Swing dancing**, Boxing, **Forex Trading**, Hypnosis, Woodwork, Permaculture
