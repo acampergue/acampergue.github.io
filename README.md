@@ -179,7 +179,7 @@ _Training, development and administration_
 
 | Date | Certificate |
 |:-----------|:------------|
-| 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization |
+| 2003-2008 |  Engineering degree (apprenticeship) - Computer Science specialization, Polytech Paris-Saclay (formerly Polytech Paris-Sud / FIIFO) |
 | 2002-2003 |  CPGE TSI (Technological and Industrial Science Preparatory Classes) - Electronic and Mechanical focus  |
 | 2001-2002 |  Bachelor's degree - Electronic specialization (honors) |
 
