@@ -37,7 +37,17 @@ aurelien.campergue.pro@pm.me
 
 # Professional experience
 
-## 2020-Now - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
+## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Munich)_
+
+* Built and standardized GitLab CI/CD pipelines for Java/Maven projects, enabling low-friction adoption across teams.
+* Rolled out Helm-based Kubernetes deployment patterns and improved Docker-based local and CI workflows.
+* Implemented release automation, Conventional Commits, and automatic changelog generation with git-cliff.
+* Introduced AI-assisted engineering workflows using Claude and Codex for code, documentation, and commit automation aligned with internal standards.
+* Improved repository health through Git LFS adoption and cleanup of oversized Git histories.
+* Proposed and implemented container-focused improvements spanning image optimization, security scanning, SBOM generation, and developer productivity.
+* Worked cross-team on GitLab, JIRA integration, Kubernetes deployment tooling, and process improvements.
+
+## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
 ### Deutsche Telekom
 
