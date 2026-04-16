@@ -4,9 +4,9 @@ München Obermenzing
 aurelien.campergue.pro@pm.me
 ~~~~
 
-# <center>Senior DevOps Engineer</center>
+# <center>Senior Platform / DevOps Engineer</center>
 
-### <center>Specialties: CI/CD, GitLab, Kubernetes, Maven, Java, Linux, Docker, Ansible</center>
+### <center>Specialties: Linux, Docker, Kubernetes, GitLab, Maven, CI/CD, Infrastructure Automation</center>
 
 <br/>
 
@@ -18,12 +18,12 @@ Languages: French (native), English (fluent), German (fluent)
 
 | Domain | Skills |
 |:-----------|:------------|
-| Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab**, **Ansible**, **Helm**, **Maven**, **Java** |
-| Platforms & Containers | OpenShift, VMware, VMware VCD, KVM, AWS, LXD/LXC, Packer |
-| Deployment & Automation | **ArgoCD**, Helmfile, Puppet, Terraform, **Gradle**, **Git**, SonarQube, Nexus |
+| Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab** |
+| Build & Delivery | **Helm**, **ArgoCD**, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
+| Infrastructure automation | **Ansible**, Terraform, Puppet |
+| Platforms & Infrastructure | OpenShift, AWS, VMware, VMware VCD, KVM, LXD/LXC, Packer |
 | Operating systems | **Debian**, **Ubuntu**, Red Hat, CentOS, Fedora, Arch Linux, OPNsense, TrueNAS |
 | Programming languages | **Java**, **Python**, **Bash**, Groovy |
-| Application stack | HAProxy, NGINX, Apache HTTP Server, JBoss, Tomcat, Redis, Cassandra, Spring, SLF4J, Logback, JUnit, Mockito, JaCoCo |
 
 # Certifications
 
@@ -83,7 +83,7 @@ Languages: French (native), English (fluent), German (fluent)
 * Automated data synchronization between web services (Groovy, Bamboo, Jira, Confluence).
 * Contributed to a partial migration from Ant to Gradle.
 
-## 2010-2016 - DevOps Engineer - _Thales Services (Paris)_
+## 2010-2016 - DevOps / Platform Engineer - _Thales Services (Paris)_
 
 ### Software development park management
 
