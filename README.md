@@ -6,7 +6,7 @@ aurelien.campergue.pro@pm.me
 
 # <center>Senior DevOps Engineer</center>
 
-### <center>Specialties: CI/CD, Gitlab, Kubernetes, Maven, Java, Linux, Docker, Ansible</center>
+### <center>Specialties: CI/CD, GitLab, Kubernetes, Maven, Java, Linux, Docker, Ansible</center>
 
 <br/>
 
@@ -14,15 +14,15 @@ aurelien.campergue.pro@pm.me
 
 | Domain | Skills |
 |:-----------|:------------|
-| Virtualization & Containerization |  **Kubernetes**, Openshift, **Docker**, AWS, KVM, LXD, LXC, Swarm, DC/OS, Packer, Vagrant, VMWare |
+| Virtualization & Containerization |  **Kubernetes**, OpenShift, **Docker**, AWS, KVM, LXD, LXC, Swarm, DC/OS, Packer, Vagrant, VMware |
 | GitOps & Deployment  |  **Ansible**, **Helm**, Helmfile, **ArgoCD**, Puppet, Preseed, Kickstart |
-| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Archlinux, CentOS, RedHat, Fedora, **OPNSense** (fork PFsense), **Truenas** (ex Freenas), PFSense, IPCop |
-| CI/CD | **Gitlab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, JIRA, Redmine, SVN, Git |
+| OS | **Debian**, **Ubuntu**, Mint, **Manjaro**, Arch Linux, CentOS, Red Hat, Fedora, **OPNsense** (fork of pfSense), **TrueNAS** (formerly FreeNAS), pfSense, IPCop |
+| CI/CD | **GitLab**, **Maven**, **Gradle**, Jenkins, Bamboo, Sonar, Nexus, Jira, Redmine, SVN, Git |
 | Programming languages | **Java**, Groovy, **Python**, **Bash** |
 | Methodologies |  UML, Design Pattern GRASP & GOF, Agile |
-| Log management | ELK (ElasticSearch, Logstash, Kibana), Fluentd |
+| Log management | ELK (Elasticsearch, Logstash, Kibana), Fluentd |
 | Testing tools | Selenium, Gatling |
-| Other tools | Haproxy, Xwiki, Confluence, Apache httpd, Nginx, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, Junit, Jmock, Mockito, Jacoco |
+| Other tools | HAProxy, XWiki, Confluence, Apache HTTP Server, NGINX, JBoss, Tomcat, Cassandra, Redis, Drupal, Joomla, JUnit, JMock, Mockito, JaCoCo |
 | Frameworks & APIs |  Spring (IoC, AOP, MVC), GWT, SLF4J, Logback |
 | Languages | French (native), English (fluent), German (fluent) |
 
@@ -45,21 +45,21 @@ aurelien.campergue.pro@pm.me
 * Introduced AI-assisted engineering workflows with Claude and Codex for code, documentation, and commit automation aligned with internal standards.
 * Improved repository health by introducing Git LFS and cleaning up oversized Git histories.
 * Drove container-focused improvements across image optimization, security scanning, SBOM generation, and developer productivity.
-* Partnered across teams on GitLab, JIRA integration, Kubernetes deployment tooling, and engineering process improvements.
+* Partnered across teams on GitLab, Jira integration, Kubernetes deployment tooling, and engineering process improvements.
 
 ## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
 
 ### Deutsche Telekom
 
 * Modernized deployments by moving a traditional Helmfile-based setup to a GitOps model with ArgoCD (Helm, Helmfile, ArgoCD, GitOps).
-* Improved GitLab pipelines for building Docker images and deploying them to an Openshift cluster (GitLab, Bash, Python, Openshift).
+* Improved GitLab pipelines for building Docker images and deploying them to an OpenShift cluster (GitLab, Bash, Python, OpenShift).
 * Enabled daemonless container image builds in Kubernetes with Kaniko-based GitLab pipelines (Kaniko, Kubernetes, GitLab, Bash).
 * Built a GitLab project dependency analyzer to trigger Docker builds from the Docker dependency tree (Python, GitLab API).
 * Supported developers on build and deployment issues.
 
 ### Camptocamp
 
-* Built and automated a documentation platform using Antora, Asciidoc, and Github Actions.
+* Built and automated a documentation platform using Antora, AsciiDoc, and GitHub Actions.
 * Contributed to workshops focused on improving CI/CD practices across the organization.
 * Helped create training materials.
 
@@ -78,7 +78,7 @@ aurelien.campergue.pro@pm.me
 ## 2016 - Build Engineer - _Workday (Dublin / Munich)_
 
 * Delivered a Jenkins-based CI environment on a Docker cluster with centralized log management (Ansible, Docker, Swarm, Consul, Registrator, Elasticsearch, Fluentd, Kibana, Jenkins).
-* Automated data synchronization between web services (Groovy, Bamboo, JIRA, Confluence).
+* Automated data synchronization between web services (Groovy, Bamboo, Jira, Confluence).
 * Contributed to a partial migration from Ant to Gradle.
 
 ## 2010-2016 - DevOps Engineer - _Thales Services (Paris)_
@@ -95,7 +95,7 @@ aurelien.campergue.pro@pm.me
 * Streamlined virtual machine deployment using Shell Scripts and Python development.
 * Created native Debian packages from Maven projects utilizing Jdeb.
 * Established a continuous deployment process with platform-specific settings using Ansible.
-* Implemented a log management architecture with ELK (ElasticSearch, Logstash, Kibana).
+* Implemented a log management architecture with ELK (Elasticsearch, Logstash, Kibana).
 * Deployed a performance monitoring architecture using Munin.
 
 ### Implementation, deployment, and maintenance of a software development platform
@@ -104,23 +104,23 @@ _Managed a software development platform used by a team of 60 people_
 
 * Implemented continuous integration with Maven, Jenkins, Nexus, Sonar, and Squale.
 * Orchestrated continuous deployment with Jenkins, Debian, Ansible, and Docker.
-* Configured collaborative work tools, including JIRA, SVN, Git, Xwiki, and OpenLDAP.
-* Ensured security and network stability with PFSense and HAProxy.
+* Configured collaborative work tools, including Jira, SVN, Git, XWiki, and OpenLDAP.
+* Ensured security and network stability with pfSense and HAProxy.
 
 ### Integration and testing platform
 
 * Installed and configured 40 hypervisors, including VMware ESXi/vSphere, KVM, and Docker.
 * Managed integration and test platforms consisting of approximately 800 VMs across 20 platforms.
-* Conducted daily deployments of complete platforms, including OS and application software stacks (40 VM, 35 Jboss, 2 Postgresql, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 apache httpd).
+* Conducted daily deployments of complete platforms, including OS and application software stacks (40 VMs, 35 JBoss, 2 PostgreSQL, 2 Cassandra, 10 Redis, 2 ActiveMQ, 6 lemonldap-ng, 10 Apache HTTP Server).
 * Set up an infrastructure for acceptance tests using Selenium Hub with Ubuntu and Windows nodes.
 
 ### Referent on software integration and system integration
 
-* Led the design and implementation of the Maven architecture, incorporating Maven3, Corporate POM, BOM, automated delivery projects, and archetypes.
+* Led the design and implementation of the Maven architecture, incorporating Maven 3, Corporate POM, BOM, automated delivery projects, and archetypes.
 * Ensured the quality of system versions with weekly releases.
 * Provided support to development and production teams.
 
-## 2010 - Devops Engineer & Software Developer - _Thales Services (Paris)_
+## 2010 - DevOps Engineer & Software Developer - _Thales Services (Paris)_
 
 _1 development mission, 2 system administration missions_
 
@@ -128,7 +128,7 @@ _1 development mission, 2 system administration missions_
 * Managed deployment and administration of the development server, supporting a team of fifteen developers.
 * Created Linux masters for development laptops and streamlined the deployment of pre-configured development environments.
 
-_Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java JEE 1.6, VMWare ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Clonezilla_
+_Ubuntu 10.04, CentOS 5.5, Eclipse 3.5 JEE, Java EE 1.6, VMware ESXi, vCenter, GWT, SmartGWT, Hibernate, SLF4J, Logback, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Clonezilla_
 
 ## 2009-2010 - Software Developer - _Thales Services (Paris)_
 
@@ -138,7 +138,7 @@ _1 development mission, 2 system administration missions_
 * Established a master configuration for development stations, ensuring consistency and efficiency.
 * Installed a Linux Debian development server (version 5.0) for enhanced software development processes.
 
-_Java JEE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, Junit, Emma, Test Driven Development, Pair Programming, Iterative schedule_
+_Java EE 1.6, AspectJ, Spring 2.5, GWT 1.7 & 2.0, GXT, WSDL, Eclipse 3.5 JEE, Subversion, Redmine, Maven 2, JDepend, PMD, Checkstyle, FindBugs, JUnit, Emma, Test Driven Development, Pair Programming, Iterative schedule_
 
 ## 2008-2009 - Software Developer - _Thales Air Systems (Paris)_
 
