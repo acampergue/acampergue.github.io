@@ -10,7 +10,7 @@ aurelien.campergue.pro@pm.me
 
 <br/>
 
-Senior Platform / DevOps Engineer with 20+ years of experience designing and operating CI/CD platforms, container infrastructures, and deployment workflows across defense, gaming, telecom, and payroll/HR software. Specialized primarily in Linux, Docker, and Kubernetes, with strong hands-on experience in GitLab, Helm, and infrastructure automation. CKA, CKAD, LFCS, and LFCE certified.
+Senior Platform / DevOps Engineer with 20+ years of experience designing, building, and operating CI/CD pipelines, container platforms, and deployment automation across defense, gaming, telecom, and HR/payroll software. Specialized in Linux, Docker, and Kubernetes, with deep hands-on experience in GitLab, Helm, and infrastructure automation, and an early adopter of AI-assisted engineering workflows. CKA, CKAD, LFCS, and LFCE certified.
 
 Languages: French (native), English (fluent), German (fluent)
 
@@ -19,7 +19,7 @@ Languages: French (native), English (fluent), German (fluent)
 | Domain | Skills |
 |:-----------|:------------|
 | Core stack | **Linux**, **Docker**, **Kubernetes**, **GitLab** |
-| Build & Delivery | **Helm**, ArgoCD, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, SonarQube, Nexus, Renovate, git-cliff |
+| Build & Delivery | **Helm**, ArgoCD, **Maven**, **Gradle**, Buildah, Kaniko, **Git**, **Jenkins**, SonarQube, Artifactory, Nexus, Harbor, Renovate, git-cliff, Trivy |
 | Infrastructure automation | **Ansible**, Terraform, Puppet |
 | Platforms & Infrastructure | OpenShift, AWS, VMware, VMware VCD, KVM, LXD/LXC, Packer |
 | Operating systems | **Debian**, **Ubuntu**, Red Hat, Arch Linux, OPNsense |
@@ -40,12 +40,17 @@ Languages: French (native), English (fluent), German (fluent)
 
 ## 2024-Present - Senior Platform / DevOps Engineer - _GIP GmbH (Frankfurt)_
 
-* Installed and operated a GitLab instance on the Kubernetes infrastructure.
-* Designed and maintained modular GitLab CI/CD pipelines for Java applications, covering builds, containerization, Helm packaging, quality gates, and automated review environment deployments to Kubernetes.
+* Installed and operated the company GitLab instance on Kubernetes (Helm, Ansible), handling regular version upgrades, runner fleet management, and production incident analysis down to Sidekiq queue tuning.
+* Designed and maintained the central GitLab CI/CD pipeline library and project templates used by 80+ Java, Quarkus, and frontend projects: Buildah/Kaniko container builds, multi-JDK matrix builds, Helm packaging, quality gates, SonarQube coverage aggregation, and automated review environment deployments to Kubernetes.
+* Migrated Jenkins build agents from static VMs to dynamic Kubernetes pods, using a build-load analysis of 14,000+ builds to target the 57% of load concentrated in UI test suites; migrated suites ran up to 13% faster. Containerized the Jenkins controller as a reproducible, CI-built image with fully pinned plugins.
+* Ran the biweekly release and delivery process for the HR/payroll product family (releases, updates, hotfixes), shipping fixes across parallel maintenance lines and providing third-level analysis of customer container incidents.
 * Leveraged artificial intelligence to document a fragile, business-critical release process and build Python and AI tooling that automated and enriched the Jira-driven biweekly workflow, reducing a major single-person dependency without disrupting established internal processes.
-* Reworked base container images from Ubuntu to Alpaquita to reduce image size and attack surface while retaining glibc compatibility.
-* Installed and configured Renovate Bot in GitLab to keep project dependencies up to date automatically.
+* Reworked base container images from Ubuntu to Alpaquita, then built an in-house Alpaquita LTS base image from the vendor minirootfs — cutting CVE findings by roughly two thirds while reducing image size and retaining glibc compatibility.
+* Introduced container vulnerability scanning (Trivy, OSV-Scanner) and Dockerfile linting into the shared pipelines, and remediated pentest findings such as TLS/crypto hardening to BSI recommendations.
+* Installed and configured Renovate Bot for both GitLab and Bitbucket with shared org-wide presets, including localized German commit messages, to keep project dependencies up to date automatically.
 * Automated changelog generation by introducing Conventional Commits and defining a tailored git-cliff configuration to publish release notes directly in GitLab.
+* Enabled Testcontainers-based database integration tests in Kubernetes CI runners without Docker-in-Docker (kubedock).
+* Built internal developer tooling: a Python CLI unifying GitLab, Bitbucket, Jira, and Tempo workflows, and a team plugin marketplace of shared AI (Claude Code) skills for commit, merge request, and upgrade workflows.
 * Supported multiple teams with GitLab onboarding, migrations from Bitbucket/Jenkins to GitLab, Kubernetes and Helm packaging, and day-to-day enablement and training.
 
 ## 2020-2024 - Senior SRE / DevOps Engineer - _Camptocamp (Munich)_
